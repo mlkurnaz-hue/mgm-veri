@@ -1,0 +1,1740 @@
+﻿il,ilce,istasyon,merkezId
+Düzce,Akçakoca,AKÇAKOCA,17015
+Zonguldak,Devrek,DEVREK/ACISU TEPESİ RADAR SAHASI,17018
+Bartın,Merkez,BARTIN,17020
+Zonguldak,Merkez,ZONGULDAK,17022
+Zonguldak,Çaycuma,ZONGULDAK ÇAYCUMA HAVALİMANI,17023
+Kastamonu,İnebolu,İNEBOLU,17024
+Sinop,Merkez,SİNOP,17026
+Sinop,Merkez,SİNOP HAVALİMANI,17028
+Samsun,Atakum,SAMSUN BÖLGE,17030
+Samsun,Çarşamba,SAMSUN ÇARŞAMBA HAVALİMANI,17031
+Ordu,Altınordu,ORDU,17033
+Giresun,Merkez,GİRESUN,17034
+Trabzon,Ortahisar,TRABZON BÖLGE,17037
+Trabzon,Ortahisar,TRABZON HAVALİMANI,17038
+Rize,Kalkandere,KALKANDERE,17040
+Rize,Merkez,RİZE,17040
+Artvin,Hopa,HOPA,17042
+Rize,Pazar,RİZE ARTVİN HAVALİMANI,17044
+Artvin,Merkez,ARTVİN,17045
+Ardahan,Merkez,ARDAHAN,17046
+İstanbul,Çatalca,ÇATALCA RADAR SAHASI,17047
+Edirne,Merkez,EDİRNE,17050
+Tekirdağ,Çorlu,TEKİRDAĞ ÇORLU HAVALİMANI,17051
+Kırklareli,Merkez,KIRKLARELİ,17052
+Tekirdağ,Çorlu,ÇORLU,17054
+Tekirdağ,Süleymanpaşa,TEKİRDAĞ,17056
+İstanbul,Arnavutköy,İSTANBUL HAVALİMANI,17058
+İstanbul,Sarıyer,SARIYER/KUMKÖY-KİLYOS,17059
+İstanbul,Bakırköy,İSTANBUL ATATÜRK HAVALİMANI,17060
+İstanbul,Sarıyer,SARIYER,17061
+İstanbul,Kadıköy,KADIKÖY GÖZTEPE RIHTIM,17062
+İstanbul,Pendik,İSTANBUL SABİHA GÖKÇEN HAVALİMANI,17063
+İstanbul,Kartal,İSTANBUL BÖLGE,17064
+İstanbul,Sancaktepe,SAMANDIRA HAVALİMANI,17065
+Kocaeli,İzmit,KOCAELİ,17066
+Kocaeli,Gölcük,GÖLCÜK,17067
+Kocaeli,Kartepe,KOCAELİ CENGİZ TOPEL HAVALİMANI,17068
+Sakarya,Adapazarı,SAKARYA,17069
+Bolu,Merkez,BOLU,17070
+Düzce,Merkez,DÜZCE,17072
+Kastamonu,Merkez,KASTAMONU,17074
+Karabük,Merkez,KARABÜK KAPULLU,17077
+Karabük,Merkez,KARABÜK,17078
+Çankırı,Merkez,ÇANKIRI,17080
+Amasya,Merzifon,AMASYA MERZİFON HAVALİMANI,17082
+Amasya,Merzifon,MERZİFON,17083
+Çorum,Merkez,ÇORUM,17084
+Amasya,Merkez,AMASYA,17085
+Tokat,Merkez,TOKAT,17086
+Tokat,Merkez,TOKAT HAVALİMANI,17087
+Gümüşhane,Merkez,GÜMÜŞHANE,17088
+Bayburt,Merkez,BAYBURT,17089
+Sivas,Merkez,SİVAS,17090
+Sivas,Merkez,SİVAS NURİ DEMİRAĞ HAVALİMANI,17091
+Erzincan,Merkez,ERZİNCAN HAVALİMANI,17092
+Erzincan,Merkez,ERZİNCAN,17094
+Erzurum,Yakutiye,ERZURUM BÖLGE,17095
+Erzurum,Yakutiye,ERZURUM HAVALİMANI,17096
+Kars,Merkez,KARS,17097
+Kars,Merkez,KARS HARAKANİ HAVALİMANI,17098
+Ağrı,Merkez,AĞRI,17099
+Iğdır,Merkez,IĞDIR,17100
+Ağrı,Merkez,AĞRI AHMED-İ HANİ HAVALİMANI,17104
+Çanakkale,Gökçeada,ÇANAKKALE GÖKÇEADA HAVALİMANI,17109
+Çanakkale,Gökçeada,GÖKÇEADA,17110
+Çanakkale,Bozcaada,BOZCAADA,17111
+Çanakkale,Merkez,ÇANAKKALE,17112
+Çanakkale,Merkez,ÇANAKKALE HAVALİMANI,17113
+Balıkesir,Bandırma,BANDIRMA,17114
+Balıkesir,Bandırma,BANDIRMA HAVALİMANI,17115
+Bursa,Osmangazi,BURSA,17116
+Bursa,Yenişehir,BURSA YENİŞEHİR HAVALİMANI,17118
+Yalova,Merkez,YALOVA,17119
+Bilecik,Merkez,BİLECİK,17120
+Eskişehir,Tepebaşı,ANADOLU ÜNİVERSİTESİ,17121
+Yalova,Çiftlikköy,YALOVA HAVALİMANI,17122
+Eskişehir,Tepebaşı,ESKİŞEHİR HASAN POLATKAN HAVALİMANI,17123
+Eskişehir,Tepebaşı,ESKİŞEHİR HAVALİMANI,17124
+Eskişehir,Sivrihisar,SİVRİHİSAR HAVALİMANI,17125
+Eskişehir,Odunpazarı,ESKİŞEHİR BÖLGE,17126
+Ankara,Kahramankazan,ANKARA MÜRTED HAVALİMANI,17127
+Ankara,Çubuk,ANKARA ESENBOĞA HAVALİMANI,17128
+Ankara,Etimesgut,ETİMESGUT HAVALİMANI,17129
+Ankara,Keçiören,ANKARA BÖLGE,17130
+Ankara,Yenimahalle,ANKARA GÜVERCİNLİK HAVALİMANI,17131
+Ankara,Gölbaşı,GÖLBAŞI/UFUK DANIŞMENT,17134
+Kırıkkale,Merkez,KIRIKKALE,17135
+Ankara,Elmadağ,ELMADAĞ RADAR SAHASI,17137
+Yozgat,Merkez,YOZGAT,17140
+Balıkesir,Edremit,BALIKESİR KOCA SEYİT HAVALİMANI,17143
+Balıkesir,Edremit,EDREMİT,17145
+Balıkesir,Altıeylül,BALIKESİR HAVALİMANI,17150
+Kütahya,Altıntaş,KÜTAHYA ZAFER HAVALİMANI,17154
+Kütahya,Merkez,KÜTAHYA,17155
+Balıkesir,Balya,BALIKESİR/AKÇALDEDE RADAR SAHASI,17158
+Kırşehir,Merkez,KIRŞEHİR,17160
+Sivas,Gemerek,GEMEREK,17162
+Tunceli,Merkez,TUNCELİ,17165
+Van,Edremit,VAN FERİT MELEN HAVALİMANI,17170
+Van,Edremit,VAN BÖLGE,17172
+Balıkesir,Ayvalık,AYVALIK,17175
+İzmir,Dikili,DİKİLİ,17180
+Manisa,Akhisar,AKHİSAR HAVALİMANI,17181
+Manisa,Akhisar,AKHİSAR,17184
+Uşak,Merkez,UŞAK HAVALİMANI,17185
+Manisa,Yunusemre,MANİSA,17186
+Uşak,Merkez,UŞAK,17188
+Afyonkarahisar,Merkez,AFYONKARAHİSAR HAVALİMANI,17189
+Afyonkarahisar,Merkez,AFYONKARAHİSAR BÖLGE,17190
+Konya,Cihanbeyli,CİHANBEYLİ,17191
+Aksaray,Merkez,AKSARAY,17192
+Nevşehir,Merkez,NEVŞEHİR,17193
+Kayseri,Kocasinan,KAYSERİ ERKİLET HAVALİMANI,17195
+Kayseri,Melikgazi,KAYSERİ BÖLGE,17196
+Malatya,Merkez,MALATYA TULGA HAVALİMANI,17197
+Malatya,Yeşilyurt,MALATYA,17199
+Malatya,Akçadağ,MALATYA ERHAÇ HAVALİMANI,17200
+Elazığ,Merkez,ELAZIĞ BÖLGE,17201
+Elazığ,Merkez,ELAZIĞ HAVALİMANI,17202
+Bingöl,Merkez,BİNGÖL,17203
+Muş,Merkez,MUŞ,17204
+Bitlis,Tatvan,TATVAN,17205
+Muş,Merkez,MUŞ HAVALİMANI,17206
+Bitlis,Merkez,BİTLİS,17208
+Siirt,Merkez,SİİRT,17210
+İzmir,Çiğli,ÇİĞLİ HAVALİMANI,17218
+İzmir,Gaziemir,İZMİR ADNAN MENDERES HAVALİMANI,17219
+İzmir,Konak,İZMİR BÖLGE,17220
+İzmir,Çeşme,ÇEŞME,17221
+İzmir,Çiğli,İZMİR KAKLIÇ HAVALİMANI,17225
+İzmir,Selçuk,SELÇUK EFES HAVALİMANI,17226
+Aydın,Efeler,AYDIN ÇILDIR HAVALİMANI,17227
+Aydın,Kuşadası,KUŞADASI,17232
+Aydın,Didim,DİDİM,17233
+Aydın,Efeler,AYDIN,17234
+Denizli,Pamukkale,DENİZLİ,17237
+Burdur,Merkez,BURDUR,17238
+Konya,Akşehir,AKŞEHİR,17239
+Isparta,Merkez,ISPARTA,17240
+Isparta,Gönen,ISPARTA SÜLEYMAN DEMİREL HAVALİMANI,17241
+Konya,Beyşehir,BEYŞEHİR,17242
+Konya,Selçuklu,KONYA HAVALİMANI,17244
+Konya,Meram,KONYA BÖLGE,17245
+Karaman,Merkez,KARAMAN,17246
+Konya,Ereğli,EREĞLİ,17248
+Niğde,Merkez,NİĞDE,17250
+Kahramanmaraş,Onikişubat,KAHRAMANMARAŞ,17255
+Kahramanmaraş,Dulkadiroğlu,KAHRAMANMARAŞ HAVALİMANI,17256
+Denizli,Çardak,DENİZLİ ÇARDAK HAVALİMANI,17257
+Gaziantep,Oğuzeli,GAZİANTEP HAVALİMANI,17260
+Gaziantep,Şahinbey,GAZİANTEP,17261
+Kilis,Merkez,KİLİS,17262
+Adıyaman,Merkez,ADIYAMAN,17265
+Adıyaman,Merkez,ADIYAMAN HAVALİMANI,17266
+Şanlıurfa,Haliliye,ŞANLIURFA,17270
+Şanlıurfa,Karaköprü,ŞANLIURFA GAP HAVALİMANI,17271
+Mardin,Artuklu,MARDİN,17275
+Mardin,Kızıltepe,MARDİN HAVALİMANI,17276
+Diyarbakır,Bağlar,DİYARBAKIR HAVALİMANI,17280
+Diyarbakır,Bağlar,DİYARBAKIR BÖLGE,17281
+Batman,Merkez,BATMAN,17282
+Diyarbakır,Sur,SUR/ÜNAL ERKAN HELİPORT,17283
+Batman,Merkez,BATMAN HAVALİMANI,17284
+Hakkari,Merkez,HAKKARİ,17285
+Şırnak,Merkez,ŞIRNAK,17287
+Muğla,Bodrum,BODRUM,17290
+Muğla,Milas,MUĞLA MİLAS-BODRUM HAVALİMANI,17291
+Muğla,Menteşe,MUĞLA,17292
+Muğla,Bodrum,IMSIK-BODRUM HAVALİMANI,17293
+Muğla,Dalaman,DALAMAN,17294
+Muğla,Dalaman,MUĞLA DALAMAN HAVALİMANI,17295
+Muğla,Fethiye,FETHİYE,17296
+Muğla,Datça,DATÇA,17297
+Muğla,Marmaris,MARMARİS,17298
+Antalya,Muratpaşa,ANTALYA HAVALİMANI,17300
+Antalya,Muratpaşa,ANTALYA BÖLGE,17302
+Antalya,Konyaaltı,KONYAALTI,17304
+Antalya,Alanya,ALANYA,17310
+Mersin,Anamur,ANAMUR,17320
+Mersin,Silifke,SİLİFKE,17330
+Mersin,Yenişehir,MERSİN,17340
+Mersin,Tarsus,ÇUKUROVA ULUSLARARASI HAVALİMANI,17345
+Adana,Yüreğir,ADANA BÖLGE,17351
+Adana,Seyhan,ADANA ŞAKİRPAŞA HAVALİMANI,17352
+Osmaniye,Merkez,OSMANİYE,17355
+Hatay,İskenderun,İSKENDERUN,17370
+Hatay,Antakya,HATAY HAVALİMANI,17371
+Hatay,Antakya,ANTAKYA,17372
+Antalya,Finike,FİNİKE,17375
+Antalya,Kaş,KAŞ,17380
+Trabzon,Çaykara,ÇAYKARA/UZUNGÖL,17569
+Bartın,Amasra,AMASRA,17602
+İstanbul,Fatih,FATİH/İST.DEN.BİL.ENS.,17603
+Kastamonu,Cide,CİDE,17604
+Kastamonu,Bozkurt,KASTAMONU/BOZKURT,17606
+Edirne,Uzunköprü,UZUNKÖPRÜ,17608
+İstanbul,Şile,ŞİLE,17610
+Zonguldak,Karadeniz Ereğli,KARADENİZ EREĞLİ,17611
+Zonguldak,Devrek,DEVREK,17613
+Çanakkale,Biga,BİGA/KEMER KÖYÜ,17614
+Bartın,Ulus,ULUS,17615
+Ordu,Gülyalı,ORDU-GİRESUN HAVALİMANI,17616
+Kastamonu,Devrekani,DEVREKANİ,17618
+Sinop,Boyabat,BOYABAT,17620
+Samsun,Bafra,BAFRA,17622
+Samsun,Alaçam,ALAÇAM,17623
+Ordu,Ünye,ÜNYE,17624
+Kastamonu,Çatalzeytin,ÇATALZEYTİN,17625
+Trabzon,Akçaabat,AKÇAABAT,17626
+Muğla,Bodrum,BODRUM/TURGUTREİS MARİNA,17627
+Rize,Pazar,RİZE/PAZAR,17628
+Kırklareli,Lüleburgaz,LÜLEBURGAZ TİGEM,17631
+Edirne,İpsala,İPSALA,17632
+Tekirdağ,Malkara,MALKARA,17634
+Balıkesir,Erdek,ERDEK,17635
+İstanbul,Bakırköy,FLORYA,17636
+Bolu,Merkez,BOLU DAĞI,17637
+Kocaeli,Gebze,GEBZE,17639
+Tekirdağ,Çerkezköy,ÇERKEZKÖY,17640
+Karabük,Eskipazar,ESKİPAZAR,17641
+Bolu,Gerede,GEREDE,17642
+Çankırı,Kurşunlu,KURŞUNLU,17643
+Sakarya,Karasu,KARASU,17644
+Hatay,Reyhanlı,REYHANLI TİGEM,17645
+Çankırı,Çerkeş,ÇERKEŞ,17646
+Çankırı,Yapraklı,YAPRAKLI,17647
+Çankırı,Ilgaz,ILGAZ,17648
+Adana,Ceyhan,CEYHAN TİGEM,17649
+Kastamonu,Tosya,TOSYA,17650
+Ankara,Polatlı,POLATLI TİGEM,17651
+Çorum,Osmancık,OSMANCIK,17652
+Amasya,Merkez,AMASYA/GÖKHÖYÜK TİGEM,17655
+Kars,Arpaçay,ARPAÇAY,17656
+Yalova,Çınarcık,ÇINARCIK,17658
+Erzurum,Uzundere,UZUNDERE,17660
+Bursa,İznik,İZNİK,17661
+Sakarya,Geyve,GEYVE,17662
+Bursa,Gemlik,GEMLİK,17663
+Ankara,Kızılcahamam,KIZILCAHAMAM,17664
+Çankırı,Şabanözü,ŞABANÖZÜ,17665
+Erzurum,İspir,İSPİR,17666
+Erzurum,Oltu,OLTU,17668
+Çanakkale,Ezine,EZİNE,17671
+Bursa,Karacabey,KARACABEY,17673
+Balıkesir,Gönen,BALIKESİR/GÖNEN,17674
+Bursa,Mustafakemalpaşa,MUSTAFAKEMALPAŞA,17675
+Bursa,Osmangazi,ULUDAĞ,17676
+Ankara,Nallıhan,NALLIHAN,17679
+Ankara,Beypazarı,BEYPAZARI,17680
+Tokat,Zile,ZİLE,17681
+Giresun,Şebinkarahisar,ŞEBİNKARAHİSAR,17682
+Tokat,Turhal,TURHAL,17683
+Sivas,Suşehri,SUŞEHRİ,17684
+Giresun,Dereli,DERELİ/KÜMBET YAYLASI,17686
+Erzurum,Tortum,TORTUM,17688
+Ordu,Fatsa,FATSA,17689
+Erzurum,Horasan,HORASAN,17690
+Kars,Sarıkamış,SARIKAMIŞ,17692
+Bolu,Seben,SEBEN,17693
+Bolu,Kıbrıscık,KIBRISCIK,17694
+Bursa,Keles,KELES,17695
+Gümüşhane,Torul,Gümüşhane / ZİGANA KAYAK MERKEZİ,17696
+Balıkesir,Bigadiç,BİGADİÇ,17698
+Balıkesir,Manyas,MANYAS,17699
+Balıkesir,Dursunbey,DURSUNBEY,17700
+Bilecik,Pazaryeri,PAZARYERİ,17701
+Bilecik,Bozüyük,BOZÜYÜK,17702
+Bilecik,Söğüt,SÖĞÜT,17703
+Kütahya,Tavşanlı,TAVŞANLI,17704
+Balıkesir,Susurluk,SUSURLUK,17705
+Malatya,Akçadağ,AKÇADAĞ/SULTANSUYU TİGEM,17706
+Kütahya,Emet,EMET,17707
+Sivas,Ulaş,ULAŞ TİGEM,17710
+Yozgat,Sorgun,SORGUN,17712
+Rize,Çamlıhemşin,ÇAMLIHEMŞİN/AYDER FIRTINA DERESİ,17713
+Trabzon,Maçka,MAÇKA/ALTINDERE SÜMELA,17714
+Ankara,Elmadağ,ELMADAĞ BARUTSAN FABRİKASI,17715
+Sivas,Zara,ZARA,17716
+Tokat,Başçiftlik,BAŞÇİFTLİK,17717
+Erzincan,Tercan,TERCAN,17718
+Karabük,Safranbolu,SAFRANBOLU/OVACUMA BELDESİ,17719
+Ağrı,Doğubayazıt,DOĞUBAYAZIT,17720
+Balıkesir,Burhaniye,BURHANİYE,17722
+Eskişehir,Çifteler,ÇİFTELER,17723
+Ankara,Polatlı,POLATLI,17728
+Ankara,Bala,BALA,17729
+Kırıkkale,Keskin,KESKİN,17730
+Ankara,Şereflikoçhisar,ŞEREFLİKOÇHİSAR,17731
+Kırşehir,Çiçekdağı,ÇİÇEKDAĞI,17732
+Ankara,Haymana,HAYMANA TARIM,17733
+Sivas,Divriği,DİVRİĞİ,17734
+Kırıkkale,Karakeçili,KARAKEÇİLİ,17735
+Tunceli,Mazgirt,MAZGİRT,17736
+Erzurum,Hınıs,HINIS,17740
+Rize,İkizdere,İKİZDERE/SİVRİKAYA,17741
+İzmir,Bergama,BERGAMA,17742
+Konya,Kadınhanı,KADINHANI/ALTINOVA TİGEM,17744
+Kırşehir,Boztepe,BOZTEPE/MALYA TİGEM,17745
+Manisa,Demirci,DEMİRCİ,17746
+Kütahya,Dumlupınar,DUMLUPINAR,17747
+Kütahya,Simav,SİMAV,17748
+İzmir,Kemalpaşa,KEMALPAŞA,17749
+Kütahya,Gediz,GEDİZ,17750
+Afyonkarahisar,Emirdağ,EMİRDAĞ,17752
+Afyonkarahisar,Bayat,BAYAT,17753
+Konya,Kulu,KULU,17754
+Kütahya,Merkez,KÜTAHYA HAVALİMANI,17755
+Kırşehir,Kaman,KAMAN,17756
+Rize,İkizdere,İKİZDERE/DEREKÖY,17757
+Kırşehir,Mucur,MUCUR,17758
+Ankara,Sincan,SİNCAN/TEMELLİ,17759
+Yozgat,Boğazlıyan,BOĞAZLIYAN,17760
+Sivas,Kangal,KANGAL,17762
+Iğdır,Merkez,IĞDIR ŞEHİT BÜLENT AYDIN HAVALİMANI,17763
+Malatya,Arapkir,ARAPGİR,17764
+Rize,Çamlıhemşin,ÇAMLIHEMŞİN,17765
+Elazığ,Ağın,AĞIN,17766
+Tunceli,Çemişgezek,ÇEMİŞGEZEK,17768
+Rize,Hemşin,HEMŞİN,17769
+Manisa,Şehzadeler,ŞEHZADELER/SPİL DAĞI MİLLİ PARKI,17771
+Rize,Ardeşen,ARDEŞEN/YEŞİLTEPE,17772
+Çanakkale,Gelibolu,GELİBOLU,17773
+Elazığ,Karakoçan,KARAKOÇAN,17774
+Trabzon,Of,OF/FİDANLIK,17775
+Bingöl,Solhan,SOLHAN,17776
+Muş,Varto,VARTO,17778
+Muş,Malazgirt,MALAZGİRT,17780
+Rize,Çayeli,ÇAYELİ TEİAŞ,17781
+İzmir,Foça,FOÇA TOPRAK SU,17782
+Van,Erciş,ERCİŞ,17784
+Rize,Çayeli,ÇAYELİ/KAPTANPAŞA,17785
+Van,Muradiye,MURADİYE,17786
+İzmir,Aliağa,ALİAĞA,17787
+İzmir,Menemen,MENEMEN,17789
+Afyonkarahisar,Çobanlar,ÇOBANLAR,17791
+Manisa,Salihli,SALİHLİ,17792
+Afyonkarahisar,Çay,ÇAY,17793
+Manisa,Köprübaşı,KÖPRÜBAŞI,17795
+Afyonkarahisar,Bolvadin,BOLVADİN,17796
+Manisa,Alaşehir,ALAŞEHİR,17797
+Konya,Yunak,YUNAK,17798
+Rize,Güneysu,GÜNEYSU,17800
+Kayseri,Pınarbaşı,KAYSERİ/PINARBAŞI,17802
+Elazığ,Keban,KEBAN,17804
+Elazığ,Palu,PALU,17806
+Bingöl,Genç,GENÇ,17808
+Bitlis,Ahlat,AHLAT,17810
+Van,Özalp,ÖZALP,17812
+İstanbul,Kadıköy,KADIKÖY/GÖZTEPE,17813
+İstanbul,Güngören,GÜNGÖREN/DAVUTPAŞA MARMARA,17814
+Hakkari,Yüksekova,HAKKARİ YÜKSEKOVA SELAHADDİN EYYUBİ HAVALİMANI,17815
+İzmir,Seferihisar,SEFERİHİSAR,17820
+İzmir,Gaziemir,İZMİR GAZİEMİR HAVALİMANI,17821
+İzmir,Ödemiş,ÖDEMİŞ,17822
+Afyonkarahisar,Sultandağı,SULTANDAĞI/YAKASENEK,17823
+Denizli,Güney,GÜNEY,17824
+Denizli,Çivril,ÇİVRİL,17825
+Isparta,Senirkent,SENİRKENT,17826
+Uşak,Eşme,EŞME,17827
+Isparta,Yalvaç,YALVAÇ,17828
+Afyonkarahisar,Şuhut,ŞUHUT,17829
+Konya,Ilgın,ILGIN,17832
+Nevşehir,Avanos,AVANOS,17833
+Nevşehir,Ürgüp,ÜRGÜP,17835
+Kayseri,Develi,DEVELİ,17836
+Kayseri,Tomarza,TOMARZA,17837
+Afyonkarahisar,Merkez,AFYONKARAHİSAR KOCATEPE ÜNİVERSİTESİ,17839
+Kayseri,Sarız,SARIZ,17840
+Sivas,Gürün,GÜRÜN,17841
+Malatya,Darende,DARENDE/BALABAN,17842
+Elazığ,Baskil,BASKİL,17843
+Elazığ,Sivrice,SİVRİCE,17844
+Malatya,Kale,MALATYA/KALE,17845
+Elazığ,Maden,MADEN,17846
+Diyarbakır,Ergani,ERGANİ,17847
+Aydın,Sultanhisar,SULTANHİSAR,17850
+Van,Gevaş,GEVAŞ,17852
+İzmir,Selçuk,SELÇUK,17854
+Aydın,Nazilli,NAZİLLİ,17860
+Afyonkarahisar,Dinar,DİNAR,17862
+Isparta,Şarkikaraağaç,ŞARKİKARAĞAÇ,17863
+Isparta,Uluborlu,ULUBORLU,17864
+Isparta,Aksu,AKSU/ANAMAS,17865
+Kahramanmaraş,Göksun,GÖKSUN,17866
+Denizli,Pamukkale,PAMUKKALE/AKKÖY,17867
+Kahramanmaraş,Afşin,AFŞİN,17868
+Afyonkarahisar,Şuhut,ŞUHUT/KARAADİLLİ,17869
+Kahramanmaraş,Elbistan,ELBİSTAN,17870
+Adıyaman,Gölbaşı,GÖLBAŞI,17871
+Malatya,Doğanşehir,DOĞANŞEHİR,17872
+Diyarbakır,Çermik,ÇERMİK,17874
+Van,Başkale,BAŞKALE,17880
+Aydın,Söke,SÖKE,17881
+Isparta,Eğirdir,EĞİRDİR,17882
+Muğla,Milas,MİLAS,17884
+Isparta,Atabey,ATABEY,17885
+Muğla,Yatağan,YATAĞAN,17886
+Isparta,Merkez,ISPARTA/DAVRAZ KAYAK MERKEZİ,17888
+Denizli,Acıpayam,ACIPAYAM,17890
+Burdur,Gölhisar,GÖLHİSAR,17891
+Burdur,Tefenni,TEFENNİ,17892
+Isparta,Sütçüler,SÜTÇÜLER,17893
+Burdur,Bucak,BUCAK/SEYDİKÖY,17894
+Antalya,Aksu,AKSU/BOZTEPE TİGEM,17895
+Konya,Sarayönü,SARAYÖNÜ/GÖZLÜ TİGEM,17897
+Eskişehir,Mahmudiye,MAHMUDİYE TİGEM,17899
+Konya,Çumra,ÇUMRA,17900
+Konya,Karapınar,KARAPINAR,17902
+Karabük,Safranbolu,SAFRANBOLU,17904
+Niğde,Ulukışla,ULUKIŞLA,17906
+Osmaniye,Kadirli,KADİRLİ,17907
+Adana,Kozan,KOZAN,17908
+Adıyaman,Kahta,KAHTA,17910
+Şanlıurfa,Siverek,SİVEREK,17912
+Şanlıurfa,Hilvan,HİLVAN,17914
+Antalya,Serik,SERİK/BELEK,17915
+Antalya,Manavgat,MANAVGAT/TAŞAĞIL ORMAN SAHASI,17917
+Şırnak,Merkez,ŞIRNAK/JANDARMA HELİKOPTER PİSTİ,17919
+Hakkari,Yüksekova,YÜKSEKOVA,17920
+Muğla,Milas,MİLAS/ÖREN,17921
+Muğla,Köyceğiz,KÖYCEĞİZ,17924
+Antalya,Korkuteli,KORKUTELİ,17926
+Antalya,İbradı,İBRADI,17927
+Konya,Hadim,HADİM,17928
+Adana,Pozantı,POZANTI,17934
+Adana,Karaisalı,KARAİSALI,17936
+Şanlıurfa,Bozova,BOZOVA,17944
+Şanlıurfa,Viranşehir,VİRANŞEHİR,17946
+Mardin,Nusaybin,NUSAYBİN,17948
+Şırnak,Cizre,ŞIRNAK ŞERAFETTİN ELÇİ HAVALİMANI,17949
+Şırnak,Cizre,CİZRE,17950
+Antalya,Kumluca,KUMLUCA,17951
+Antalya,Elmalı,ELMALI,17952
+Antalya,Kemer,ANTALYA/KEMER,17953
+Antalya,Manavgat,MANAVGAT,17954
+Mersin,Mut,MUT,17956
+Mersin,Erdemli,ERDEMLİ,17958
+Adana,Ceyhan,CEYHAN,17960
+Hatay,Dörtyol,DÖRTYOL,17962
+Gaziantep,İslahiye,İSLAHİYE,17965
+Şanlıurfa,Birecik,BİRECİK,17966
+Şanlıurfa,Ceylanpınar,CEYLANPINAR TİGEM,17968
+Antalya,Demre,DEMRE,17970
+Konya,Seydişehir,SEYDİŞEHİR,17972
+Eskişehir,Sivrihisar,SİVRİHİSAR,17973
+Antalya,Gazipaşa,GAZİPAŞA,17974
+Antalya,Gazipaşa,ANTALYA GAZİPAŞA HAVALİMANI,17975
+Mersin,Tarsus,TARSUS,17978
+Adana,Yumurtalık,YUMURTALIK,17979
+Şanlıurfa,Akçakale,AKÇAKALE,17980
+Adana,Karataş,KARATAŞ,17981
+Bursa,İnegöl,İNEGÖL,17984
+Hatay,Samandağ,SAMANDAĞ,17986
+Ankara,Elmadağ,ELMADAĞ/YEŞİLDERE,17987
+Balıkesir,Gönen,GÖNEN/ÇİFTEÇEŞMELER KÖYÜ,17988
+Afyonkarahisar,Sandıklı,SANDIKLI,18002
+Afyonkarahisar,Sinanpaşa,SİNANPAŞA,18003
+Afyonkarahisar,İscehisar,İSCEHİSAR,18004
+Afyonkarahisar,İhsaniye,İHSANİYE,18005
+Afyonkarahisar,Sultandağı,SULTANDAĞI,18006
+Afyonkarahisar,Evciler,EVCİLER,18007
+Antalya,Döşemealtı,DAĞBELİ,18008
+Antalya,Kaş,KAŞ/ÇAVDIR ORMAN SAHASI,18009
+Antalya,Kaş,KAŞ/KASABA ORMAN SAHASI,18010
+Antalya,Manavgat,MANAVGAT/BEŞKONAK ORMAN SAHASI,18011
+Antalya,Gündoğmuş,GÜNDOĞMUŞ ORMAN DEPOSU,18012
+Antalya,Akseki,AKSEKİ/MURTİÇİ ORMAN SAHASI,18013
+Antalya,Serik,SERİK/GEBİZ ORMAN SAHASI,18014
+Antalya,Korkuteli,KORKUTELİ/BÜK ORMAN SAHASI,18015
+Antalya,Döşemealtı,DÖŞEMEALTI/NEBİLER ORMAN SAHASI,18016
+Muğla,Marmaris,MARMARİS/ÇETİBELİ ORMAN DEPOSU,18017
+Muğla,Fethiye,FETHİYE/DEĞİRMENBAŞI EKİP ORMAN DEPOSU,18018
+Muğla,Köyceğiz,KÖYCEĞİZ/ZEYTİNALANI EKİP ORMAN DEPOSU,18019
+Muğla,Milas,MİLAS/DENİZCİK ORMAN DEPOSU,18020
+Muğla,Ula,ULA/HELİKOPTER PİSTİ ORMAN SAHASI,18021
+Muğla,Kavaklıdere,KAVAKLIDERE/KOCATAŞ ORMAN SAHASI,18022
+Aydın,Çine,ÇİNE,18023
+Aydın,Çine,ÇİNE/KAVŞİT EKİP ORMAN SAHASI,18024
+Aydın,Karacasu,KARACASU,18025
+Aydın,İncirliova,İNCİRLİOVA/İNCİR ARŞ.(TAGEM),18026
+Aydın,Bozdoğan,BOZDOĞAN,18027
+İzmir,Urla,URLA,18028
+İzmir,Tire,TİRE,18029
+İzmir,Torbalı,TORBALI,18030
+İzmir,Bornova,BORNOVA/ZEYTİNCİLİK ARŞ.(TAGEM),18031
+İzmir,Karaburun,KARABURUN,18032
+Manisa,Yunusemre,MANİSA KENT ORMANI,18033
+İzmir,Menderes,MENDERES ORMAN SAHASI,18034
+İzmir,Urla,URLA/UZUNKUYU ORMAN SAHASI,18035
+Manisa,Akhisar,AKHİSAR/KARAKÖY ORMAN DEPOSU,18036
+Afyonkarahisar,Dazkırı,DAZKIRI,18037
+İzmir,Aliağa,ALİAĞA/BOZKÖY ORMAN SAHASI,18038
+Manisa,Soma,SOMA/CENKYERİ ORMAN SAHASI,18039
+Manisa,Soma,SOMA,18040
+Manisa,Gördes,GÖRDES,18041
+Manisa,Kula,KULA,18042
+Manisa,Gölmarmara,GÖLMARMARA,18043
+Manisa,Yunusemre,YUNUSEMRE/ÇAKMAK ORMAN SAHASI,18044
+Ankara,Ayaş,AYAŞ,18045
+Ankara,Çankaya,ÇANKAYA/TBMM,18046
+Antalya,Akseki,AKSEKİ,18047
+Muğla,Ula,ULA/AKYAKA,18048
+İzmir,Bayındır,BAYINDIR,18049
+İzmir,Menderes,MENDERES/GÜMÜLDÜR,18050
+Manisa,Saruhanlı,SARUHANLI,18051
+Manisa,Turgutlu,TURGUTLU,18052
+Adana,Tufanbeyli,TUFANBEYLİ,18053
+Adana,Yüreğir,YÜREĞİR/ÇUKUROVA TARIM ARŞ. (TAGEM),18054
+Adana,İmamoğlu,İMAMOĞLU,18055
+Adana,Saimbeyli,SAİMBEYLİ,18056
+Hatay,Belen,BELEN,18057
+Hatay,Altınözü,ALTINÖZÜ,18058
+Mersin,Gülnar,GÜLNAR,18059
+Mersin,Çamlıyayla,ÇAMLIYAYLA/MEYVECİLİK ARŞ. (TAGEM),18060
+Mersin,Aydıncık,MERSİN/AYDINCIK,18061
+Mersin,Silifke,SİLİFKE/UZUNCABURÇ,18062
+Osmaniye,Bahçe,BAHÇE,18063
+Osmaniye,Düziçi,DÜZİÇİ,18064
+Denizli,Tavas,TAVAS,18065
+Denizli,Çameli,ÇAMELİ,18066
+Denizli,Çal,ÇAL,18067
+Denizli,Sarayköy,SARAYKÖY,18068
+Uşak,Banaz,BANAZ,18069
+Uşak,Ulubey,UŞAK/ULUBEY,18070
+Uşak,Sivaslı,SİVASLI,18071
+Ankara,Keçiören,KEÇİÖREN/BAĞLUM,18072
+Ankara,Kahramankazan,KAHRAMANKAZAN/KURTBOĞAZI BARAJI,18073
+Ankara,Mamak,MAMAK/BAYINDIR BARAJI,18074
+Ankara,Çamlıdere,ÇAMLIDERE ORMAN İŞLETME MÜDÜRLÜĞÜ,18075
+Ankara,Kalecik,KALECİK,18076
+Ankara,Güdül,GÜDÜL,18077
+Ankara,Polatlı,POLATLI/ACIKIR,18078
+Çankırı,Kızılırmak,KIZILIRMAK,18079
+Çankırı,Eldivan,ELDİVAN BELEDİYE,18080
+Kırıkkale,Delice,DELİCE,18081
+Balıkesir,Kepsut,KEPSUT,18082
+Bursa,Orhaneli,ORHANELİ,18083
+Çanakkale,Biga,BİGA,18084
+Çanakkale,Yenice,ÇANAKKALE/YENİCE,18085
+Bilecik,Gölpazarı,GÖLPAZARI,18086
+Bilecik,Osmaneli,OSMANELİ,18087
+Eskişehir,Alpu,ALPU,18088
+Eskişehir,Mihalıçcık,MİHALIÇÇIK/ÇATACIK,18089
+Eskişehir,Günyüzü,GÜNYÜZÜ,18090
+Eskişehir,Sarıcakaya,SARICAKAYA,18091
+Eskişehir,Mihalıçcık,MİHALIÇÇIK,18092
+Kütahya,Altıntaş,ALTINTAŞ,18093
+Kütahya,Domaniç,DOMANİÇ,18094
+Kütahya,Çavdarhisar,ÇAVDARHİSAR,18095
+Edirne,Lalapaşa,LALAPAŞA,18096
+Edirne,Enez,ENEZ,18097
+Edirne,Havsa,HAVSA,18098
+İstanbul,Büyükçekmece,BÜYÜKÇEKMECE,18099
+İstanbul,Tuzla,TUZLA,18100
+İstanbul,Eyüp,EYÜPSULTAN,18101
+Kırklareli,Demirköy,DEMİRKÖY,18102
+Kırklareli,Vize,VİZE/KIYIKÖY,18103
+Kocaeli,Kandıra,KANDIRA,18104
+Sakarya,Hendek,HENDEK,18105
+Sakarya,Sapanca,SAPANCA,18106
+Tekirdağ,Şarköy,ŞARKÖY,18107
+Tekirdağ,Hayrabolu,HAYRABOLU,18108
+Yalova,Altınova,ALTINOVA,18109
+Yalova,Armutlu,ARMUTLU,18110
+Burdur,Bucak,BUCAK/KARACAÖREN,18111
+Burdur,Ağlasun,AĞLASUN,18112
+Burdur,Yeşilova,YEŞİLOVA,18113
+Isparta,Gelendost,GELENDOST,18114
+Isparta,Yenişarbademli,YENİŞARBADEMLİ,18115
+Aksaray,Güzelyurt,GÜZELYURT,18116
+Aksaray,Sultanhanı,SULTANHANI,18117
+Aksaray,Ortaköy,AKSARAY/ORTAKÖY,18118
+Kırşehir,Akpınar,AKPINAR,18119
+Kırşehir,Çiçekdağı,ÇİÇEKDAĞI TİGEM,18120
+Nevşehir,Derinkuyu,DERİNKUYU,18121
+Nevşehir,Hacıbektaş,HACIBEKTAŞ,18122
+Nevşehir,Kozaklı,KOZAKLI,18123
+Çorum,Alaca,ALACA,18124
+Çorum,Mecitözü,MECİTÖZÜ,18125
+Çorum,Oğuzlar,OĞUZLAR,18126
+Çorum,Sungurlu,SUNGURLU,18127
+Çorum,İskilip,İSKİLİP,18128
+Çorum,Ortaköy,ÇORUM/ORTAKÖY,18129
+Ordu,Gölköy,GÖLKÖY,18130
+Ordu,Akkuş,AKKUŞ,18131
+Samsun,Tekkeköy,TEKKEKÖY/KARADENİZ ARŞ. (TAGEM),18132
+Samsun,Bafra,BAFRA/TOPRAK SU ARŞ.(TAGEM),18133
+Samsun,Vezirköprü,VEZİRKÖPRÜ,18134
+Samsun,Ladik,LADİK,18135
+Sinop,Erfelek,ERFELEK,18136
+Amasya,Suluova,SULUOVA,18137
+Amasya,Taşova,TAŞOVA,18138
+Sivas,Şarkışla,ŞARKIŞLA,18139
+Sivas,Yıldızeli,YILDIZELİ,18140
+Tokat,Niksar,NİKSAR,18141
+Tokat,Erbaa,ERBAA,18142
+Tokat,Artova,ARTOVA,18143
+Tokat,Sulusaray,SULUSARAY,18144
+Tokat,Almus,ALMUS,18145
+Tokat,Reşadiye,REŞADİYE,18146
+Tokat,Merkez,TOKAT/TOPRAK VE SU ARŞ. (TAGEM),18147
+Kayseri,Kocasinan,KOCASİNAN/YAMULA BARAJI,18148
+Gaziantep,Karkamış,KARKAMIŞ,18150
+Gaziantep,Nurdağı,NURDAĞI,18151
+Gaziantep,Araban,ARABAN,18152
+Gaziantep,Nizip,NİZİP,18153
+Kilis,Musabeyli,MUSABEYLİ,18154
+Kilis,Elbeyli,ELBEYLİ,18155
+Kahramanmaraş,Andırın,ANDIRIN,18156
+Kahramanmaraş,Pazarcık,PAZARCIK,18157
+Bolu,Mudurnu,MUDURNU,18158
+Karabük,Eflani,EFLANİ,18159
+Mardin,Dargeçit,DARGEÇİT/ILISU BARAJ SAHASI,18160
+Batman,Hasankeyf,HASANKEYF,18161
+Batman,Sason,SASON,18162
+Diyarbakır,Lice,LİCE,18163
+Diyarbakır,Silvan,SİLVAN,18164
+Diyarbakır,Bismil,BİSMİL,18165
+Diyarbakır,Yenişehir,YENİŞEHİR/EŞREF BİTLİS HELİPORT,18166
+Mardin,Mazıdağı,MAZIDAĞI,18167
+Mardin,Midyat,MİDYAT,18168
+Siirt,Baykan,BAYKAN,18169
+Şanlıurfa,Halfeti,HALFETİ,18170
+Şanlıurfa,Suruç,SURUÇ,18171
+Şanlıurfa,Akçakale,AKÇAKALE/KORUKLU GAP TOPRAK SU (TAGEM),18172
+Şanlıurfa,Haliliye,HALİLİYE/ÜNİVERSİTE OSMANBEY KAMPÜSÜ,18173
+Şırnak,Uludere,ULUDERE,18175
+Bingöl,Kiğı,KİĞI,18176
+Bingöl,Karlıova,KARLIOVA,18177
+Elazığ,Kovancılar,KOVANCILAR,18178
+Tunceli,Ovacık,TUNCELİ/OVACIK,18179
+Adıyaman,Çelikhan,ÇELİKHAN,18180
+Adıyaman,Besni,BESNİ,18181
+Adıyaman,Gerger,GERGER,18182
+Malatya,Hekimhan,HEKİMHAN,18183
+Malatya,Kuluncak,KULUNCAK,18184
+Malatya,Darende,DARENDE,18185
+Malatya,Pötürge,PÜTÜRGE,18186
+Malatya,Battalgazi,BATTALGAZİ/MEYVECİLİK ARŞ.(TAGEM),18187
+Malatya,Yazıhan,YAZIHAN,18188
+Malatya,Arguvan,ARGUVAN,18189
+Elazığ,Sivrice,SİVRİCE/GÖZELİ,18190
+Elazığ,Merkez,ELAZIĞ/HARPUT,18191
+Elazığ,Kovancılar,KOVANCILAR/YARIMCA,18192
+Ağrı,Patnos,PATNOS,18193
+Ağrı,Eleşkirt,ELEŞKİRT,18194
+Iğdır,Aralık,ARALIK,18195
+Kars,Selim,SELİM,18197
+Kars,Kağızman,KAĞIZMAN,18198
+Erzincan,Refahiye,REFAHİYE,18199
+Erzincan,Kemah,KEMAH,18200
+Erzurum,Pasinler,PASİNLER/TOPRAK SU ARŞ. (TAGEM),18201
+Erzurum,Narman,NARMAN,18202
+Erzurum,Çat,ÇAT,18203
+Erzurum,Karayazı,KARAYAZI,18204
+Erzurum,Aşkale,AŞKALE,18205
+Mersin,Tarsus,TARSUS/ARDIÇLI,18206
+Kayseri,Yeşilhisar,YEŞİLHİSAR,18207
+Yozgat,Çekerek,ÇEKEREK,18208
+Yozgat,Akdağmadeni,AKDAĞMADENİ,18209
+Karaman,Ermenek,ERMENEK,18210
+Karaman,Ayrancı,AYRANCI,18211
+Konya,Seydişehir,SEYDİŞEHİR/ALACABEL,18212
+Konya,Karatay,KARATAY/BAHRİ DAĞDAŞ ARŞ. (TAGEM),18213
+Niğde,Çamardı,ÇAMARDI,18214
+Kastamonu,Araç,ARAÇ,18215
+Artvin,Yusufeli,YUSUFELİ,18216
+Artvin,Şavşat,ŞAVŞAT,18217
+Artvin,Ardanuç,ARDANUÇ,18218
+Bayburt,Demirözü,DEMİRÖZÜ,18219
+Giresun,Çamoluk,ÇAMOLUK,18220
+Giresun,Doğankent,DOĞANKENT,18221
+Giresun,Dereli,DERELİ/YAVUZKEMAL,18222
+Giresun,Çanakçı,ÇANAKÇI,18223
+Giresun,Alucra,ALUCRA,18224
+Giresun,Tirebolu,TİREBOLU,18225
+Gümüşhane,Kürtün,KÜRTÜN,18226
+Gümüşhane,Torul,TORUL,18227
+Gümüşhane,Kelkit,KELKİT,18228
+Trabzon,Düzköy,DÜZKÖY,18229
+Trabzon,Tonya,TONYA/KALINÇAM,18230
+Trabzon,Beşikdüzü,BEŞİKDÜZÜ,18231
+Trabzon,Hayrat,HAYRAT/PAZARÖNÜ,18232
+Trabzon,Arsin,ARSİN,18233
+Hakkari,Şemdinli,ŞEMDİNLİ,18234
+Van,Bahçesaray,BAHÇESARAY,18235
+Ardahan,Posof,POSOF,18236
+Van,Gürpınar,GÜRPINAR,18237
+Van,Çaldıran,ÇALDIRAN,18238
+Bolu,Merkez,BOLU/BATI KARADENİZ ORMAN ARŞ.,18239
+Ankara,Akyurt,AKYURT,18240
+Ankara,Çamlıdere,ÇAMLIDERE/ÇAMKORU,18241
+Ankara,Çubuk,ÇUBUK,18242
+Ankara,Pursaklar,PURSAKLAR,18243
+Ankara,Sincan,SİNCAN,18244
+Bartın,Kurucaşile,KURUCAŞİLE,18245
+Bolu,Göynük,GÖYNÜK,18246
+Bolu,Mengen,MENGEN,18247
+Bolu,Yeniçağa,YENİÇAĞA,18248
+Çankırı,Atkaracalar,ATKARACALAR,18249
+Çankırı,Bayramören,BAYRAMÖREN,18251
+Çankırı,Korgun,KORGUN,18252
+Çankırı,Orta,ORTA,18253
+Kırıkkale,Çelebi,ÇELEBİ,18254
+Kırıkkale,Sulakyurt,SULAKYURT,18255
+Ankara,Çankaya,ÇANKAYA/ÇALDAĞ,18256
+Ankara,Haymana,HAYMANA,18257
+Adana,Aladağ,ALADAĞ,18258
+Düzce,Gölyaka,GÖLYAKA,18259
+Düzce,Yığılca,YIĞILCA,18260
+Karabük,Eskipazar,KARABÜK/KARATEPE,18261
+Karabük,Yenice,KARABÜK/YENİCE,18262
+Kırıkkale,Merkez,KIRIKKALE/HACILAR,18263
+Kırıkkale,Balışeyh,BALIŞEYH,18264
+Zonguldak,Alaplı,ALAPLI,18265
+Karabük,Ovacık,KARABÜK/OVACIK,18266
+Zonguldak,Gökçebey,GÖKÇEBEY,18267
+Adana,Çukurova,ÇUKUROVA,18268
+Adana,Feke,FEKE,18269
+Adana,Sarıçam,SARIÇAM,18270
+Gaziantep,Şahinbey,ŞAHİNBEY,18271
+Gaziantep,Şehitkamil,ŞEHİTKAMİL,18272
+Gaziantep,Yavuzeli,YAVUZELİ,18273
+Hatay,Erzin,ERZİN,18274
+Hatay,Hassa,HASSA,18275
+Hatay,Kırıkhan,KIRIKHAN,18276
+Hatay,Kumlu,KUMLU,18277
+Hatay,Yayladağı,YAYLADAĞI,18278
+Kahramanmaraş,Çağlayancerit,ÇAĞLAYANCERİT,18279
+Kahramanmaraş,Ekinözü,EKİNÖZÜ,18280
+Kahramanmaraş,Nurhak,NURHAK,18281
+Kahramanmaraş,Türkoğlu,TÜRKOĞLU,18282
+Kilis,Polateli,POLATELİ,18283
+Mersin,Bozyazı,BOZYAZI,18284
+Mersin,Erdemli,ERDEMLİ/TÖMÜK,18285
+Mersin,Toroslar,TOROSLAR/ARSLANKÖY,18287
+Mersin,Toroslar,TOROSLAR/KIZILBAĞ,18288
+Osmaniye,Hasanbeyli,HASANBEYLİ,18289
+Osmaniye,Toprakkale,TOPRAKKALE,18290
+Afyonkarahisar,Başmakçı,BAŞMAKÇI,18291
+Afyonkarahisar,Hocalar,HOCALAR,18292
+Afyonkarahisar,Kızılören,KIZILÖREN,18293
+Denizli,Babadağ,BABADAĞ,18294
+Denizli,Baklan,BAKLAN,18295
+Denizli,Bekilli,BEKİLLİ,18296
+Denizli,Beyağaç,BEYAĞAÇ,18297
+Denizli,Bozkurt,DENİZLİ/BOZKURT,18298
+Denizli,Buldan,BULDAN,18299
+Denizli,Honaz,HONAZ,18300
+Denizli,Kale,DENİZLİ/KALE,18301
+Denizli,Serinhisar,SERİNHİSAR,18302
+Denizli,Tavas,DENİZLİ KAYAK MERKEZİ,18303
+Uşak,Karahallı,KARAHALLI,18304
+Antalya,Elmalı,ELMALI ORMAN SAHASI,18305
+Antalya,Serik,SERİK,18306
+Antalya,Döşemealtı,DÖŞEMEALTI/KARAİN HAVACILIK,18307
+Burdur,Altınyayla,BURDUR/ALTINYAYLA,18308
+Burdur,Çavdır,ÇAVDIR,18309
+Burdur,Çavdır,ÇAVDIR/SÖĞÜT BELDESİ,18310
+Burdur,Çeltikçi,ÇELTİKÇİ,18311
+Burdur,Karamanlı,KARAMANLI,18312
+Burdur,Kemer,BURDUR/KEMER,18313
+Burdur,Merkez,MEHMET AKİF ERSOY ÜNİVERSİTESİ,18314
+Isparta,Gönen,ISPARTA/GÖNEN,18315
+Isparta,Keçiborlu,KEÇİBORLU,18316
+Muğla,Ortaca,ORTACA,18317
+Batman,Beşiri,BEŞİRİ,18318
+Batman,Gercüş,GERCÜŞ,18319
+Batman,Kozluk,KOZLUK,18320
+Diyarbakır,Çınar,ÇINAR,18321
+Diyarbakır,Çüngüş,ÇÜNGÜŞ,18322
+Diyarbakır,Dicle,DİCLE,18323
+Diyarbakır,Eğil,EĞİL,18324
+Diyarbakır,Hani,HANİ,18325
+Diyarbakır,Hazro,HAZRO,18326
+Diyarbakır,Kayapınar,KAYAPINAR/DEVEGEÇİDİ,18327
+Diyarbakır,Kocaköy,KOCAKÖY,18328
+Diyarbakır,Kulp,KULP,18329
+Mardin,Dargeçit,DARGEÇİT,18330
+Mardin,Derik,DERİK,18331
+Mardin,Kızıltepe,KIZILTEPE,18332
+Mardin,Ömerli,MARDİN/ÖMERLİ,18333
+Mardin,Savur,SAVUR,18334
+Mardin,Yeşilli,YEŞİLLİ,18335
+Şırnak,Güçlükonak,GÜÇLÜKONAK,18336
+Siirt,Eruh,ERUH,18337
+Siirt,Kurtalan,KURTALAN,18338
+Siirt,Pervari,PERVARİ,18339
+Siirt,Şirvan,ŞİRVAN,18340
+Adıyaman,Merkez,ADIYAMAN ÜNİVERSİTESİ,18341
+Şırnak,Beytüşşebap,BEYTÜŞŞEBAP,18342
+Şırnak,İdil,İDİL,18343
+Şırnak,Silopi,SİLOPİ,18344
+Adıyaman,Samsat,SAMSAT,18345
+Adıyaman,Sincik,SİNCİK,18346
+Adıyaman,Tut,TUT,18347
+Bingöl,Adaklı,ADAKLI,18348
+Bingöl,Yayladere,YAYLADERE,18349
+Bingöl,Yedisu,YEDİSU,18350
+Elazığ,Arıcak,ARICAK,18351
+Malatya,Doğanyol,DOĞANYOL,18352
+Malatya,Merkez,MALATYA/KAYISI ARŞ. ENS.,18353
+Tunceli,Hozat,HOZAT,18354
+Tunceli,Nazımiye,NAZIMİYE,18355
+Ağrı,Diyadin,DİYADİN,18356
+Ağrı,Hamur,HAMUR,18357
+Ağrı,Taşlıçay,TAŞLIÇAY,18358
+Ağrı,Tutak,TUTAK,18359
+Erzincan,Çayırlı,ÇAYIRLI,18360
+Erzincan,İliç,İLİÇ,18361
+Erzincan,Kemaliye,KEMALİYE,18362
+Erzincan,Otlukbeli,OTLUKBELİ,18363
+Erzincan,Üzümlü,ÜZÜMLÜ,18364
+Erzurum,Karaçoban,KARAÇOBAN,18365
+Erzurum,Köprüköy,KÖPRÜKÖY,18366
+Erzurum,Olur,OLUR,18367
+Erzurum,Pazaryolu,PAZARYOLU,18368
+Erzurum,Şenkaya,ŞENKAYA,18369
+Erzurum,Tekman,TEKMAN,18370
+Iğdır,Karakoyunlu,KARAKOYUNLU,18371
+Iğdır,Tuzluca,TUZLUCA,18372
+Kars,Akyaka,AKYAKA,18373
+Kars,Digor,DİGOR,18374
+Kars,Susuz,SUSUZ,18375
+Ardahan,Çıldır,ÇILDIR,18376
+Ardahan,Damal,DAMAL,18377
+Ardahan,Göle,GÖLE,18378
+Ardahan,Hanak,HANAK,18379
+Bilecik,İnhisar,İNHİSAR,18380
+Bilecik,Yenipazar,BİLECİK/YENİPAZAR,18381
+Bursa,Büyükorhan,BÜYÜKORHAN,18382
+Bursa,Harmancık,HARMANCIK,18383
+Bursa,Kestel,KESTEL,18384
+Bursa,Mudanya,MUDANYA,18385
+Bursa,Nilüfer,NİLÜFER,18386
+Bursa,Orhangazi,ORHANGAZİ,18387
+Eskişehir,Beylikova,BEYLİKOVA,18388
+Eskişehir,Han,HAN,18389
+Eskişehir,Seyitgazi,SEYİTGAZİ,18390
+Kütahya,Aslanapa,ASLANAPA,18391
+Kütahya,Pazarlar,PAZARLAR,18392
+Edirne,Keşan,KEŞAN,18393
+Edirne,Meriç,MERİÇ,18394
+Edirne,Süloğlu,SÜLOĞLU,18395
+İstanbul,Beykoz,BEYKOZ,18396
+İstanbul,Çekmeköy,ÇEKMEKÖY/ÖMERLİ,18397
+Kırklareli,Pınarhisar,PINARHİSAR,18398
+İstanbul,Sancaktepe,SANCAKTEPE,18399
+İstanbul,Silivri,SİLİVRİ,18400
+İstanbul,Şişli,ŞİŞLİ,18401
+İstanbul,Arnavutköy,ARNAVUTKÖY,18402
+İstanbul,Ümraniye,ÜMRANİYE,18403
+İstanbul,Üsküdar,ÜSKÜDAR,18404
+Kırklareli,Babaeski,BABAESKİ,18405
+Kırklareli,Kofçaz,KOFÇAZ,18406
+Kırklareli,Pehlivanköy,PEHLİVANKÖY,18407
+Kırklareli,Vize,VİZE/YUMURTATEPE,18408
+Kocaeli,Başiskele,BAŞİSKELE,18409
+Kocaeli,Darıca,DARICA,18410
+Kocaeli,Dilovası,DİLOVASI,18411
+Kocaeli,Karamürsel,KARAMÜRSEL,18412
+Kocaeli,Kartepe,KARTEPE,18413
+Kocaeli,Körfez,KÖRFEZ,18414
+Sakarya,Akyazı,AKYAZI,18415
+Sakarya,Ferizli,FERİZLİ,18416
+Sakarya,Karapürçek,KARAPÜRÇEK,18417
+Sakarya,Kaynarca,KAYNARCA,18418
+Sakarya,Kocaali,KOCAALİ,18419
+Sakarya,Taraklı,TARAKLI,18420
+İstanbul,Beykoz,BEYKOZ/ANADOLU FENERİ,18421
+Tekirdağ,Muratlı,MURATLI,18422
+Tekirdağ,Saray,TEKİRDAĞ/SARAY,18423
+Yalova,Termal,TERMAL,18424
+Aydın,Buharkent,BUHARKENT,18425
+Aydın,Germencik,GERMENCİK,18426
+Aydın,Koçarlı,KOÇARLI,18427
+Aydın,Köşk,KÖŞK,18428
+Aydın,Kuyucak,KUYUCAK,18429
+Aydın,Yenipazar,AYDIN/YENİPAZAR,18430
+Balıkesir,Dursunbey,DURSUNBEY/YAYLA ORMAN SAHASI,18431
+Balıkesir,İvrindi,İVRİNDİ,18432
+Balıkesir,Altıeylül,ALTIEYLÜL,18433
+Balıkesir,Savaştepe,SAVAŞTEPE,18434
+Çanakkale,Ayvacık,ÇANAKKALE/AYVACIK,18435
+Çanakkale,Bayramiç,BAYRAMİÇ,18436
+Çanakkale,Çan,ÇAN,18437
+Çanakkale,Lapseki,LAPSEKİ,18438
+İzmir,Kemalpaşa,KEMALPAŞA/OVACIK KÖYÜ,18439
+İzmir,Bayraklı,BAYRAKLI,18440
+İzmir,Beydağ,BEYDAĞ,18441
+İzmir,Bornova,BORNOVA ORMAN SAHASI,18442
+İzmir,Buca,BUCA,18443
+İzmir,Güzelbahçe,GÜZELBAHÇE,18444
+İzmir,Karabağlar,İZMİR ÇATALKAYA RADAR SAHASI,18445
+İzmir,Karşıyaka,KARŞIYAKA,18446
+İzmir,Kiraz,KİRAZ,18447
+İzmir,Konak,KONAK,18448
+İzmir,Menderes,MENDERES/ÇİLEME KÖYÜ,18449
+İzmir,Narlıdere,NARLIDERE,18450
+Manisa,Ahmetli,AHMETLİ,18451
+Manisa,Sarıgöl,SARIGÖL,18452
+Manisa,Selendi,SELENDİ,18453
+Kayseri,Akkışla,AKKIŞLA,18454
+Kayseri,Bünyan,BÜNYAN,18455
+Kayseri,Felahiye,FELAHİYE,18456
+Kayseri,İncesu,İNCESU,18457
+Kayseri,Özvatan,ÖZVATAN,18458
+Kayseri,Sarıoğlan,SARIOĞLAN,18459
+Kayseri,Talas,TALAS/ALİ DAĞI,18460
+Kayseri,Yahyalı,YAHYALI,18461
+Kırşehir,Akçakent,AKÇAKENT,18462
+Nevşehir,Acıgöl,ACIGÖL,18463
+Nevşehir,Gülşehir,GÜLŞEHİR,18464
+Sivas,Akıncılar,AKINCILAR,18465
+Sivas,Altınyayla,SİVAS/ALTINYAYLA,18466
+Sivas,Doğanşar,DOĞANŞAR,18467
+Sivas,Gölova,GÖLOVA,18468
+Sivas,Hafik,HAFİK,18469
+Sivas,İmranlı,İMRANLI,18470
+Sivas,Koyulhisar,KOYULHİSAR,18471
+Yozgat,Aydıncık,YOZGAT/AYDINCIK,18472
+Yozgat,Çandır,ÇANDIR,18473
+Yozgat,Çayıralan,ÇAYIRALAN,18474
+Yozgat,Kadışehri,KADIŞEHRİ,18475
+Yozgat,Saraykent,SARAYKENT,18476
+Yozgat,Sarıkaya,SARIKAYA,18477
+Yozgat,Şefaatli,ŞEFAATLİ,18478
+Yozgat,Yenifakılı,YENİFAKILI,18479
+Aksaray,Ağaçören,AĞAÇÖREN,18480
+Aksaray,Eskil,ESKİL,18481
+Aksaray,Gülağaç,GÜLAĞAÇ,18482
+Aksaray,Sarıyahşi,SARIYAHŞİ,18483
+Karaman,Kazımkarabekir,KAZIMKARABEKİR,18484
+Karaman,Sarıveliler,SARIVELİLER,18485
+Konya,Ahırlı,AHIRLI,18486
+Konya,Akören,AKÖREN,18487
+Konya,Altınekin,ALTINEKİN,18488
+Konya,Bozkır,BOZKIR,18489
+Konya,Çeltik,ÇELTİK,18490
+Konya,Derbent,DERBENT,18491
+Konya,Derebucak,DEREBUCAK,18492
+Konya,Doğanhisar,DOĞANHİSAR,18493
+Konya,Emirgazi,EMİRGAZİ,18494
+Konya,Güneysınır,GÜNEYSINIR,18495
+Konya,Halkapınar,HALKAPINAR/İVRİZ,18496
+Konya,Hüyük,HÜYÜK,18497
+Konya,Taşkent,TAŞKENT,18498
+Konya,Tuzlukçu,TUZLUKÇU,18499
+Konya,Yalıhüyük,YALIHÜYÜK,18500
+Niğde,Altunhisar,ALTUNHİSAR,18501
+Niğde,Bor,BOR,18502
+Niğde,Çiftlik,ÇİFTLİK,18503
+Amasya,Göynücek,GÖYNÜCEK,18504
+Amasya,Gümüşhacıköy,GÜMÜŞHACIKÖY,18505
+Amasya,Hamamözü,HAMAMÖZÜ,18506
+Samsun,Atakum,ATAKUM/SAMSUN RADAR SAHASI,18507
+Çorum,Boğazkale,BOĞAZKALE,18508
+Çorum,Dodurga,DODURGA,18509
+Çorum,Kargı,KARGI,18510
+Çorum,Laçin,LAÇİN,18511
+Çorum,Uğurludağ,UĞURLUDAĞ,18512
+Kastamonu,Pınarbaşı,KASTAMONU/PINARBAŞI,18513
+Kastamonu,Azdavay,AZDAVAY,18514
+Kastamonu,Daday,DADAY,18515
+Kastamonu,Doğanyurt,DOĞANYURT,18516
+Kastamonu,İhsangazi,İHSANGAZİ,18517
+Kastamonu,Küre,KÜRE,18518
+Kastamonu,Pınarbaşı,PINARBAŞI KAR,18519
+Kastamonu,Seydiler,SEYDİLER,18520
+Kastamonu,Şenpazar,ŞENPAZAR,18521
+Kastamonu,Taşköprü,TAŞKÖPRÜ,18522
+Ordu,Aybastı,AYBASTI,18523
+Ordu,Çamaş,ÇAMAŞ,18524
+Ordu,Çaybaşı,ÇAYBAŞI,18526
+Ordu,Altınordu,ORDU ÜNİVERSİTE KAMPÜSÜ,18527
+Ordu,Gürgentepe,GÜRGENTEPE,18528
+Ordu,İkizce,İKİZCE/ŞENBOLLUK,18529
+Ordu,Kabataş,KABATAŞ,18530
+Ordu,Kumru,KUMRU,18531
+Ordu,Mesudiye,MESUDİYE,18532
+Ordu,Perşembe,PERŞEMBE/KIRLI BELDESİ,18533
+Ordu,Ulubey,ORDU/ULUBEY,18534
+Samsun,Asarcık,ASARCIK,18535
+Samsun,Ayvacık,SAMSUN/AYVACIK,18536
+Samsun,Canik,CANİK/KAŞYAYLA KÖYÜ,18537
+Samsun,Çarşamba,ÇARŞAMBA,18538
+Samsun,Havza,HAVZA,18539
+Samsun,Kavak,KAVAK,18540
+Samsun,Ondokuzmayıs,ONDOKUZMAYIS,18541
+Samsun,Salıpazarı,SALIPAZARI,18542
+Samsun,Salıpazarı,SALIPAZARI/DÜZDAĞ YAYLAKÖY,18543
+Samsun,Terme,TERME/KOZLUK BELDESİ,18544
+Samsun,Yakakent,YAKAKENT/KARAABA KÖYÜ,18545
+Sinop,Ayancık,AYANCIK/AKÖREN KÖYÜ,18546
+Sinop,Dikmen,DİKMEN,18547
+Sinop,Durağan,DURAĞAN,18548
+Sinop,Gerze,GERZE,18549
+Sinop,Saraydüzü,SARAYDÜZÜ,18550
+Sinop,Türkeli,TÜRKELİ,18551
+Tokat,Pazar,TOKAT/PAZAR,18552
+Tokat,Yeşilyurt,YEŞİLYURT,18553
+Artvin,Arhavi,ARHAVİ,18554
+Artvin,Borçka,BORÇKA,18555
+Artvin,Murgul,MURGUL,18556
+Bayburt,Aydıntepe,AYDINTEPE,18557
+Giresun,Bulancak,BULANCAK,18558
+Giresun,Eynesil,EYNESİL/ÖREN BELDESİ,18559
+Giresun,Görele,GÖRELE/KUŞÇULU KÖYÜ,18560
+Giresun,Güce,GÜCE,18561
+Giresun,Keşap,KEŞAP/YİVDİNCİK KÖYÜ,18562
+Giresun,Yağlıdere,YAĞLIDERE,18563
+Gümüşhane,Köse,KÖSE,18564
+Gümüşhane,Şiran,ŞİRAN,18565
+Rize,Derepazarı,DEREPAZARI/MALTEPE KÖYÜ,18566
+Rize,Fındıklı,FINDIKLI,18567
+Rize,Merkez,RİZE/ANDON,18568
+Rize,İkizdere,İKİZDERE/CİMİL,18569
+Trabzon,Dernekpazarı,DERNEKPAZARI,18570
+Trabzon,Köprübaşı,KÖPRÜBAŞI/BEŞKÖY,18571
+Trabzon,Maçka,MAÇKA/ÖRNEKALAN KÖYÜ,18572
+Trabzon,Çarşıbaşı,ÇARŞIBAŞI/YOROZ,18573
+Trabzon,Sürmene,SÜRMENE/DENİZ BİLİMLERİ FAKÜLTESİ,18574
+Trabzon,Vakfıkebir,VAKFIKEBİR/HAMZALI KÖYÜ,18575
+Bitlis,Adilcevaz,ADİLCEVAZ,18576
+Bitlis,Güroymak,GÜROYMAK,18577
+Bitlis,Hizan,HİZAN,18578
+Bitlis,Mutki,MUTKİ,18579
+Çanakkale,Eceabat,ECEABAT MİLLİ PARKI,18580
+Muş,Bulanık,BULANIK,18581
+Muş,Korkut,KORKUT,18582
+Van,Çatak,ÇATAK,18583
+Van,Saray,VAN/SARAY,18585
+Tunceli,Pülümür,PÜLÜMÜR,18586
+Şırnak,Uludere,ULUDERE/GÜRVİLTEPE,18587
+Elazığ,Sivrice,SİVRİCE/HAZARBABA DAĞI,18589
+Eskişehir,Alpu,ALPU/ALAPINAR KÖYÜ,18590
+Konya,Bozkır,BOZKIR/SORKUN YAYLASI,18591
+Konya,Taşkent,TAŞKENT/BALCILAR BELDESİ,18592
+Ankara,Haymana,HAYMANA/DEVECİPINARI KÖYÜ,18593
+Ankara,Haymana,HAYMANA/YENİCE BELDESİ,18594
+Sakarya,Hendek,HENDEK/YENİYAYLA KÖYÜ,18595
+Aydın,Kuyucak,KUYUCAK/MUSAKOLU KÖYÜ,18596
+Balıkesir,Kepsut,KEPSUT/DALKÖY,18597
+Balıkesir,Dursunbey,DURSUNBEY/REŞADİYE MEVKİ,18598
+İzmir,Ödemiş,ÖDEMİŞ/DEMİRDERE KÖYÜ,18599
+Manisa,Selendi,SELENDİ/TAVAK KÖYÜ,18600
+Kütahya,Domaniç,DOMANİÇ/KOCAYAYLA,18601
+Eskişehir,Tepebaşı,TEPEBAŞI/BOZDAĞ MEVKİ,18602
+Kütahya,Emet,EMET/ESATLAR KÖYÜ,18604
+Kütahya,Merkez,KÜTAHYA/KİRAZLIYAYLASI KÖYÜ,18605
+Kütahya,Şaphane,ŞAPHANE,18606
+Kütahya,Tavşanlı,TAVŞANLI/GÜMÜŞYENİKÖY,18607
+Isparta,Sütçüler,SÜTÇÜLER/BEYDİLİ KÖYÜ,18608
+Antalya,Korkuteli,KORKUTELİ/ÇOMAKLI MEVKİ,18609
+Antalya,Akseki,AKSEKİ/CEVİZLİ TEKEBELİ MEVKİ,18610
+Antalya,Gündoğmuş,GÜNDOĞMUŞ/BEDAN MEVKİ,18611
+Antalya,Kumluca,KUMLUCA/AKDAĞ KOVUCAK MEVKİ,18612
+Antalya,Kaş,KAŞ/YUVACIK MEVKİ,18613
+Antalya,Kaş,KAŞ/ORTABAĞ MEVKİ,18614
+Antalya,Korkuteli,KORKUTELİ/KIZILCADAĞ MEVKİ,18615
+Isparta,Eğirdir,EĞİRDİR/SARIİDRİS BELDESİ,18616
+Antalya,Korkuteli,KORKUTELİ/HACIYUSUFLAR MEVKİ,18617
+Antalya,Elmalı,ELMALI/BULANIK YAYLASI,18618
+Antalya,İbradı,İBRADI/GEMBOS OVASI,18619
+Burdur,Gölhisar,GÖLHİSAR/ELMALIYURT MEVKİ,18620
+Burdur,Merkez,BURDUR/ERİKLİ MEVKİ,18621
+Burdur,Merkez,BURDUR/YAYLABELİ KÖYÜ,18622
+Burdur,Tefenni,TEFENNİ/BELKAYA KÖYÜ,18623
+Isparta,Yalvaç,YALVAÇ/AKDAĞ MEVKİ,18624
+Muğla,Seydikemer,SEYDİKEMER/KAVAKLI ORMAN EKİP,18625
+Muğla,Fethiye,FETHİYE/NİF(ARPACIK) KÖYÜ,18626
+Muğla,Köyceğiz,KÖYCEĞİZ/OTMANLAR KÖYÜ,18627
+Muğla,Seydikemer,SEYDİKEMER/BOĞALAR KÖYÜ,18628
+Muğla,Menteşe,MENTEŞE/ŞENYAYLA ORMAN,18629
+Afyonkarahisar,Sultandağı,SULTANDAĞI/ÜÇKUYU MEVKİ,18630
+Afyonkarahisar,Hocalar,HOCALAR/YEŞİLHİSAR BELDESİ,18631
+Denizli,Çameli,ÇAMELİ/KİRAZLIYAYLA KÖYÜ,18632
+Denizli,Kale,KALE/KIRKÖY KÖYÜ,18633
+Denizli,Tavas,TAVAS/NİKFER BELDESİ,18634
+Denizli,Pamukkale,PAMUKKALE/HONAZ DAĞI MİLLİ PARKI,18635
+Denizli,Honaz,HONAZ/AKBAŞ KÖYÜ,18636
+Denizli,Çivril,ÇİVRİL/KAVAKALANI KÖYÜ,18637
+Denizli,Pamukkale,PAMUKKALE/GÜZELPINAR KÖYÜ,18638
+Denizli,Kale,KALE/KARAYAYLA KÖYÜ,18639
+Uşak,Banaz,BANAZ/BALTALI KÖYÜ,18640
+Adana,Feke,FEKE/KALEYÜZÜ KÖYÜ,18642
+Adana,Tufanbeyli,TUFANBEYLİ/EVCİ KÖYÜ,18643
+Adana,Saimbeyli,SAİMBEYLİ/HALİLBEYLİ KÖYÜ,18644
+Kahramanmaraş,Andırın,ANDIRIN/KALEBOYNU KÖYÜ,18645
+Kahramanmaraş,Elbistan,ELBİSTAN/AKARCA MEVKİ,18646
+Kahramanmaraş,Elbistan,ELBİSTAN/KANGAL KÖYÜ,18647
+Antalya,Kaş,KAŞ/YAYLAPALAMUT MEVKİ,18648
+Kahramanmaraş,Ekinözü,EKİNÖZÜ/ALİŞAR KÖYÜ,18649
+Mersin,Gülnar,GÜLNAR/KONUR MEVKİ,18650
+Mersin,Erdemli,ERDEMLİ/YAĞDA KÖYÜ,18651
+Mersin,Silifke,SİLİFKE/GÜNDÜZLER KÖYÜ,18652
+Mersin,Mut,MUT/TOZLU YAYLASI,18653
+Mersin,Bozyazı,BOZYAZI/AKPINAR YAYLASI,18654
+Mersin,Mut,MUT/KIZILALAN MEVKİ,18655
+Kahramanmaraş,Türkoğlu,TÜRKOĞLU/ÇAKIROĞLU KÖYÜ,18658
+Yozgat,Boğazlıyan,BOĞAZLIYAN/OVAKENT BELDESİ,18659
+Kayseri,Yahyalı,YAHYALI/DEREBAĞ KÖYÜ,18660
+Kayseri,Yahyalı,YAHYALI/AVLAĞA KÖYÜ,18661
+Kayseri,Akkışla,AKKIŞLA/ORTAKÖY KÖYÜ,18662
+Kayseri,Develi,DEVELİ/KÜÇÜKKÜNYE KÖYÜ,18663
+Kayseri,Pınarbaşı,PINARBAŞI/YUKARIKIZILÇEVRİK KÖYÜ,18664
+Kayseri,Tomarza,TOMARZA/GÜZELSU KÖYÜ,18665
+Kırşehir,Merkez,KIRŞEHİR/GÖLLÜ KÖYÜ,18666
+Sivas,Kangal,KANGAL/YENİKÖY KÖYÜ,18667
+Sivas,İmranlı,İMRANLI/YONCABAYIRI KÖYÜ,18668
+Sivas,Divriği,DİVRİĞİ/ÇAKMAKDÜZÜ KÖYÜ,18670
+Sivas,Merkez,SİVAS/HANLI KÖYÜ,18671
+Sivas,Yıldızeli,YILDIZELİ/ALACA KÖYÜ,18673
+Sivas,Zara,ZARA/SÖĞÜTLÜ KÖYÜ,18674
+Sivas,İmranlı,İMRANLI/KUZKÖY KÖYÜ,18675
+Sivas,Yıldızeli,YILDIZELİ/DİREKLİ KÖYÜ,18676
+Sivas,Yıldızeli,YILDIZELİ/YUKARIEKECİK KÖYÜ,18677
+Yozgat,Merkez,YOZGAT/TOPÇU KÖYÜ,18678
+Yozgat,Akdağmadeni,AKDAĞMADENİ/AKÇAKIŞLA KÖYÜ,18679
+Aksaray,Merkez,AKSARAY/BÜYÜKGÜVE KÖYÜ,18680
+Konya,Hadim,HADİM/DEDEMLİ DOLHANLAR,18681
+Konya,Kadınhanı,KADINHANI/ATLANTI BELDESİ,18682
+Konya,Karatay,KARATAY/ESENTEPE KÖYÜ,18683
+Konya,Cihanbeyli,CİHANBEYLİ/TURANLAR KÖYÜ,18684
+Konya,Meram,MERAM/KAYHÜYÜK KÖYÜ,18685
+Konya,Meram,MERAM/GÜNEYDERE KÖYÜ,18686
+Konya,Karatay,KARATAY/GÖÇÜ KÖYÜ BOZDAĞ,18687
+Niğde,Merkez,NİĞDE/KONAKLI BELDESİ,18688
+Niğde,Ulukışla,ULUKIŞLA/ÇİFTEKÖY KÖYÜ,18689
+Niğde,Merkez,NİĞDE/ULUAĞAÇ KÖYÜ,18690
+Ankara,Gölbaşı,GÖLBAŞI/AHİBOZ KÖYÜ,18691
+Bartın,Merkez,BARTIN/HASANKADI KÖYÜ,18692
+Bolu,Gerede,GEREDE/SAMAT KÖYÜ,18693
+Bolu,Dörtdivan,DÖRTDİVAN/ÇETİKÖREN KÖYÜ,18694
+Bolu,Mudurnu,MUDURNU/ABANT GÖLÜ,18695
+Çankırı,Bayramören,BAYRAMÖREN/KAVAKKÖY KÖYÜ,18696
+Çankırı,Merkez,ÇANKIRI/PEHLİVANLI KÖYÜ,18697
+Çankırı,Orta,ORTA/KAYIÖREN KÖYÜ,18698
+Amasya,Merkez,AMASYA/BELDAĞI KÖYÜ,18699
+Çorum,Kargı,KARGI/AKKAYA YAYLASI,18700
+Çorum,Merkez,ÇORUM/KONAKLI BELDESİ,18701
+Çorum,Merkez,ÇORUM/BÜYÜKGÜLÜCEK KÖYÜ,18702
+Çorum,Alaca,ALACA/KARNIKARA KÖYÜ,18703
+Kastamonu,İhsangazi,İHSANGAZİ/İNCİĞEZ KÖYÜ,18704
+Kastamonu,Araç,ARAÇ ORMAN SAHASI,18705
+Kastamonu,Merkez,KASTAMONU/BAŞÖREN KÖYÜ,18706
+Ordu,Aybastı,AYBASTI/TOYGAR KÖYÜ,18707
+Samsun,Çarşamba,ÇARŞAMBA/EĞRİDERE KÖYÜ,18708
+Samsun,Havza,HAVZA/YEŞİLALAN KÖYÜ,18709
+Çorum,Bayat,BAYAT,18710
+Sinop,Boyabat,BOYABAT DRANAZ TÜNELİ,18711
+Tokat,Merkez,TOKAT/AVLUNLAR BELDESİ,18712
+Tokat,Reşadiye,REŞADİYE/KIZILCAÖREN BELDESİ,18713
+Artvin,Şavşat,ŞAVŞAT/ÇUKUR YAYLASI,18715
+Artvin,Yusufeli,YUSUFELİ/DOKUMACILAR KÖYÜ,18716
+Artvin,Murgul,MURGUL KARAGÖL,18717
+Bayburt,Demirözü,DEMİRÖZÜ/BEŞPINARKÖYÜ,18718
+Bayburt,Merkez,BAYBURT/TAŞÇILAR KÖYÜ,18719
+Giresun,Dereli,DERELİ/TAMDERE KÖYÜ,18720
+Giresun,Bulancak,BULANCAK/SERPİN YAYLASI,18721
+Giresun,Alucra,ALUCRA/ÇAKRAK KÖYÜ,18722
+Gümüşhane,Merkez,GÜMÜŞHANE/SARGINKAYA KÖYÜ,18723
+Gümüşhane,Kürtün,KÜRTÜN/ELCİĞEZ KÖYÜ,18724
+Gümüşhane,Kürtün,KÜRTÜN/BEYTARLA KÖYÜ,18725
+Gümüşhane,Merkez,GÜMÜŞHANE/AŞAĞIYUVALI KÖYÜ,18726
+Gümüşhane,Kürtün,KÜRTÜN/ARPACIK KÖYÜ,18727
+Gümüşhane,Merkez,GÜMÜŞHANE/OLUCAK KARAYAYLA,18728
+Gümüşhane,Kelkit,KELKİT/KARACAÖREN KÖYÜ,18729
+Giresun,Görele,GÖRELE/SİS DAĞI,18730
+Rize,Çamlıhemşin,ÇAMLIHEMŞİN/KALEKÖY,18731
+Rize,İkizdere,İKİZDERE/ÇAĞRANKAYA YAYLASI,18732
+Bayburt,Aydıntepe,AYDINTEPE/KAVLATAN KÖYÜ,18733
+İstanbul,Arnavutköy,ARNAVUTKÖY/TERKOS BARAJI,18734
+İstanbul,Şile,ŞİLE/İSAKÖY,18735
+İstanbul,Pendik,PENDİK/ÖMERLİ BARAJI,18736
+Kırklareli,Vize,VİZE/KAZANDERE BARAJI,18737
+Sakarya,Kocaali,KOCAALİ/MELEN,18738
+Eskişehir,Odunpazarı,ODUNPAZARI/KANLIPINAR KÖYÜ,18739
+Eskişehir,Sivrihisar,SİVRİHİSAR/KARACAKAYA KÖYÜ,18740
+Bursa,Osmangazi,OSMANGAZİ/GÜNDOĞDU,18741
+Uşak,Ulubey,ULUBEY/KURUDERE KÖYÜ,18742
+Bursa,Yenişehir,YENİŞEHİR/ALAYLI KÖYÜ,18743
+Uşak,Banaz,BANAZ/BAHADIR KÖYÜ,18744
+Bursa,Gürsu,GÜRSU,18745
+Bursa,Yıldırım,YILDIRIM,18746
+Afyonkarahisar,İscehisar,İSCEHİSER/ALANYURT BELDESİ,18747
+Afyonkarahisar,Sinanpaşa,SİNANPAŞA/ÇATKUYU KÖYÜ,18748
+Afyonkarahisar,Bolvadin,BOLVADİN/KEMERKAYA KÖYÜ,18749
+Afyonkarahisar,Merkez,AFYONKARAHİSAR/KOCATEPE,18750
+Afyonkarahisar,Sinanpaşa,SİNANPAŞA/YILDIRIMKEMAL KÖYÜ,18751
+Uşak,Merkez,UŞAK/SUSUZÖREN KÖYÜ,18752
+Konya,Selçuklu,SELÇUKLU/SİLLE BARAJI,18753
+Denizli,Honaz,HONAZ/KAKLIK BELDESİ,18754
+Bursa,İznik,İZNİK/BURSA RADAR SAHASI,18755
+Bursa,Osmangazi,OSMANGAZİ/SARIALAN,18756
+Afyonkarahisar,Merkez,AFYONKARAHİSAR/OLUCAK KÖYÜ,18757
+Konya,Bozkır,BOZKIR/SARIOĞLAN BELDESİ,18758
+Konya,Meram,MERAM/İNLİCE BELDESİ,18759
+Konya,Meram,MERAM/KONYA KENT ORMANI,18760
+Afyonkarahisar,Bayat,BAYAT/KÖROĞLU BELİ,18761
+Adıyaman,Çelikhan,ÇELİKHAN/PINARBAŞI,18762
+Bingöl,Genç,GENÇ/BAYIRLI KÖYÜ,18763
+Bingöl,Karlıova,KARLIOVA/KAYNAK KÖYÜ,18764
+Elazığ,Arıcak,ARICAK/ERİMLİ MEVKİ,18765
+Elazığ,Merkez,ELAZIĞ/ÇÖTELİ KÖYÜ,18766
+Malatya,Akçadağ,AKÇADAĞ/HANÇERLİ KÖYÜ,18767
+Tunceli,Pertek,PERTEK/AŞAĞIGÜLBAHÇE KÖYÜ,18769
+Malatya,Merkez,MALATYA/BEYDAĞI MEVKİ,18770
+Hakkari,Merkez,HAKKARİ/DURANKAYA BELDESİ,18771
+Van,Başkale,BAŞKALE/ALBAYRAK KÖYÜ,18772
+Van,Başkale,BAŞKALE/ÇALDIRAN KÖYÜ,18773
+Van,Bahçesaray,BAHÇESARAY/KARABET TEPESİ,18774
+Van,Çaldıran,ÇALDIRAN/BEZİRHANE KÖYÜ,18775
+Van,Gürpınar,GÜRPINAR/SEVİNDİK KÖYÜ,18776
+Van,İpekyolu,İPEKYOLU/YUKARIGÜNEYCE KÖYÜ,18777
+Van,Gevaş,GEVAŞ/AYDINOCAK KÖYÜ,18778
+Van,Çaldıran,ÇALDIRAN/AŞAĞIYANIKTAŞ KÖYÜ,18779
+Van,İpekyolu,İPEKYOLU/ORTANCA KÖYÜ,18780
+Diyarbakır,Sur,SUR/BEYBULAK KÖYÜ,18781
+Diyarbakır,Çınar,ÇINAR/KARAÇEVRE KÖYÜ,18782
+Diyarbakır,Kayapınar,KAYAPINAR/KARAYAKUP KÖYÜ,18783
+Mardin,Artuklu,ARTUKLU/BAĞLICA KÖYÜ,18784
+Mardin,Midyat,MİDYAT/HANLAR KÖYÜ,18785
+Siirt,Pervari,PERVARİ/OKÇULAR KÖYÜ,18786
+Siirt,Pervari,PERVARİ/SARIYAPRAK KÖYÜ,18787
+Şanlıurfa,Siverek,SİVEREK/YENİCELİ KÖYÜ,18788
+Şırnak,Beytüşşebap,BEYTÜŞŞEBAP/BOĞAZÖREN KÖYÜ,18789
+Edirne,İpsala,İPSALA/HACI KÖYÜ,18790
+Edirne,Lalapaşa,LALAPAŞA/ÖMEROBA KÖYÜ,18791
+İstanbul,Şile,ŞİLE/DARLIK KÖYÜ,18792
+İstanbul,Silivri,SİLİVRİ ORMAN SAHASI,18793
+Kırklareli,Babaeski,BABAESKİ/YENİMAHALLE KÖYÜ,18794
+Kırklareli,Demirköy,DEMİRKÖY/BEĞENDİK KÖYÜ,18795
+Kırklareli,Lüleburgaz,LÜLEBURGAZ/AHMETBEY BELDESİ,18796
+Kırklareli,Pınarhisar,PINARHİSAR/MAHYA DAĞI,18797
+Kocaeli,Kandıra,KANDIRA/AKÇAOVA BELDESİ,18798
+Kocaeli,İzmit,İZMİT/AKMEŞE BELDESİ,18799
+Kocaeli,İzmit,İZMİT ORMAN SAHASI,18800
+Kocaeli,Başiskele,BAŞİSKELE/YUVACIK ORMAN SAHASI,18801
+Kocaeli,Derince,DERİNCE/KARAGÖLLÜ KÖYÜ,18802
+Sakarya,Geyve,GEYVE/HİSARLIK KÖYÜ,18803
+Tekirdağ,Süleymanpaşa,SÜLEYMANPAŞA/BANARLI MAHALLESİ,18804
+Tekirdağ,Malkara,MALKARA/DOĞANKÖY,18805
+Tekirdağ,Şarköy,ŞARKÖY/GANOS DAĞI,18806
+Yalova,Çiftlikköy,ÇİFTLİKKÖY/SUGÖREN RADAR MEVKİ,18807
+Aydın,Didim,DİDİM/AKBÜK BELDESİ,18808
+Aydın,Çine,ÇİNE/BAHÇEARASI KÖYÜ,18809
+Aydın,Söke,SÖKE/KARAKAYA KÖYÜ,18810
+Aydın,Çine,ÇİNE/HACIPAŞALAR KÖYÜ,18811
+Balıkesir,Balya,BALYA/HİSARALAN ORMAN SAHASI,18812
+Balıkesir,Edremit,EDREMİT/KAZ DAĞI MİLLİ PARKI,18813
+Balıkesir,Balya,BALYA/DÖRTYOL KÖYÜ,18814
+Balıkesir,Altıeylül,ALTIEYLÜL/KİRAZPINAR KÖYÜ,18815
+Balıkesir,Dursunbey,DURSUNBEY/KAVACIK BELDESİ,18816
+Çanakkale,Bayramiç,BAYRAMİÇ/KARAKÖY KÖYÜ,18817
+Çanakkale,Merkez,ÇANAKKALE/KİRAZLI BELDESİ,18818
+Çanakkale,Ezine,EZİNE/ÇAMLICA KÖYÜ ORMAN SAHASI,18819
+İzmir,Kınık,KINIK/KÖSELER KÖYÜ,18820
+İzmir,Bergama,BERGAMA/ÇAMAVLU KÖYÜ,18821
+İzmir,Bayındır,BAYINDIR/ÇINARDİBİ KÖYÜ,18822
+İzmir,Bergama,BERGAMA/İNCECİKLER ORMAN SAHASI,18823
+Manisa,Akhisar,AKHİSAR/MECİDİYE BELDESİ,18824
+Manisa,Saruhanlı,SARUHANLI/SARIÇAM KÖYÜ,18825
+Manisa,Saruhanlı,SARUHANLI/TİRKEŞ KÖYÜ,18826
+Manisa,Salihli,SALİHLİ/İĞDECİK KÖYÜ,18827
+Bilecik,Bozüyük,BOZÜYÜK/DODURGA BELDESİ,18828
+Bursa,Karacabey,KARACABEY/BAYRAMDERE GÖLETİ,18829
+Bursa,Mustafakemalpaşa,MUSTAFAKEMALPAŞA/ ESKİKIZILELMA KÖYÜ,18830
+Bursa,Mustafakemalpaşa,MUSTAFAKEMALPAŞA/GÜRGENDAĞ ORMAN SAHASI,18831
+Eskişehir,Seyitgazi,SEYİTGAZİ/KIRKA BELDESİ,18832
+Eskişehir,Mihalıçcık,MİHALIÇÇIK/KIZILTEPE ORMAN SAHASI,18833
+Eskişehir,Tepebaşı,TEPEBAŞI/ÇANAKKIRAN KÖYÜ,18834
+Kütahya,Hisarcık,HİSARCIK,18835
+Kütahya,Simav,SİMAV/SÖĞÜT ORMAN SAHASI,18836
+Antalya,Alanya,ALANYA/KEŞEFLİ,18837
+Antalya,Alanya,ALANYA/OKURCALAR BELDESİ,18838
+Antalya,Manavgat,MANAVGAT ORMAN SAHASI,18839
+Burdur,Bucak,BUCAK/KIZILKAYA BELDESİ,18841
+Burdur,Bucak,BUCAK/PAMUCAK ORMAN SAHASI,18842
+Burdur,Yeşilova,YEŞİLOVA/BAYINDIR KÖYÜ,18843
+Isparta,Sütçüler,SÜTÇÜLER/KASIMLAR BELDESİ,18844
+Isparta,Sütçüler,SÜTÇÜLER / AYVALIIPINAR BELDESİ,18845
+Isparta,Yalvaç,YALVAÇ/YARIKKAYA KÖYÜ,18846
+Muğla,Seydikemer,SEYDİKEMER,18847
+Muğla,Ula,ULA/KAVAKÇALI KÖYÜ,18848
+Muğla,Milas,MİLAS ORMAN SAHASI,18849
+Afyonkarahisar,Çay,ÇAY/DEVEDERESİ KÖYÜ,18850
+Afyonkarahisar,Dinar,DİNAR/TATARLI BELDESİ,18851
+Denizli,Çivril,ÇİVRİL/KIRALAN BELDESİ,18852
+Denizli,Buldan,BULDAN/KARAKÖY KÖYÜ,18853
+Denizli,Acıpayam,ACIPAYAM/ALCI ORMAN SAHASI,18854
+Uşak,Eşme,EŞME/DELİBAŞLI KÖYÜ,18855
+Uşak,Merkez,UŞAK TEKSTİL OSB,18856
+Uşak,Banaz,BANAZ ORMAN SAHASI,18857
+Hatay,Arsuz,ARSUZ,18858
+Adana,Sarıçam,SARIÇAM/YAĞIZLAR GÖLETİ,18859
+Adana,Sarıçam,SARIÇAM/HACI SABANCI OSB,18860
+Adana,Kozan,KOZAN/ACARYAYLA ORMAN SAHASI,18861
+Adana,Pozantı,POZANTI/AKÇATEKİR,18862
+Adana,Feke,FEKE/MANSURLU ORMAN SAHASI,18863
+Gaziantep,Oğuzeli,OĞUZELİ/KOVANLI KÖYÜ,18864
+Gaziantep,İslahiye,İSLAHİYE/ALACA KÖYÜ,18865
+Kahramanmaraş,Onikişubat,ONİKİŞUBAT/TEKİR BELDESİ,18867
+Kahramanmaraş,Afşin,AFŞİN/TÜRKÇAYIRI KÖYÜ,18868
+Kilis,Merkez,KİLİS/MISIRCIK KÖYÜ,18869
+Mersin,Silifke,SİLİFKE/AKDERE ORMAN SAHASI,18870
+Mersin,Mut,MUT/ÇORTAK KÖYÜ,18871
+Osmaniye,Kadirli,KADİRLİ/KARATEPE KÖYÜ,18872
+Kayseri,Sarıoğlan,SARIOĞLAN/TUZLA GÖLÜ,18873
+Kayseri,Talas,TALAS/KAMBER KÖYÜ,18874
+Kayseri,Sarız,SARIZ/YEDİOLUK KÖYÜ,18875
+Kırşehir,Kaman,KAMAN/TEPEKÖY KÖYÜ,18876
+Kırşehir,Merkez,KIRŞEHİR/ÇAYAĞZI BELDESİ,18877
+Nevşehir,Gülşehir,GÜLŞEHİR/GÖKÇETOPRAK KÖYÜ,18878
+Nevşehir,Avanos,AVANOS/TOPAKLI KÖYÜ,18879
+Sivas,Yıldızeli,YILDIZELİ/ÇUBUK KÖYÜ,18880
+Sivas,Hafik,HAFİK/DERİNCE KÖYÜ,18881
+Sivas,Suşehri,SUŞEHRİ/GEMİNBELİ GEÇİDİ,18882
+Yozgat,Çekerek,ÇEKEREK/BEYYURDU KÖYÜ,18883
+Yozgat,Merkez,YOZGAT/ÇADIRARDIÇ BELDESİ,18884
+Yozgat,Yerköy,YERKÖY/SARAY BELDESİ,18886
+Konya,Cihanbeyli,CİHANBEYLİ/YENİCEOBA BELDESİ,18887
+Aksaray,Merkez,AKSARAY/BORUCU KÖYÜ,18888
+Aksaray,Merkez,AKSARAY/HASAN DAĞI,18889
+Karaman,Başyayla,BAŞYAYLA,18890
+Karaman,Merkez,KARAMAN/TAŞKALE BELDESİ,18891
+Karaman,Ermenek,ERMENEK/BALKUSAN KÖYÜ,18892
+Karaman,Ayrancı,AYRANCI/BERENDİ KÖYÜ,18893
+Konya,Güneysınır,GÜNEYSINIR/SARIHACI KÖYÜ,18894
+Konya,Karapınar,KARAPINAR/SAZLIPINAR KÖYÜ,18895
+Konya,Selçuklu,SELÇUKLU/BAĞRIKURT,18896
+Konya,Beyşehir,BEYŞEHİR/YEŞİLDAĞ ORMAN SAHASI,18897
+Konya,Derbent,DERBENT/ALADAĞ,18898
+Niğde,Ulukışla,ULUKIŞLA/ALTAY KÖYÜ,18899
+Eskişehir,Sivrihisar,SİVRİHİSAR/KAYMAZ BELDESİ,18900
+İzmir,Dikili,DİKİLİ/ÇUKURALAN KÖYÜ,18901
+Nevşehir,Merkez,NEVŞEHİR/GÖREME,18902
+Ankara,Kahramankazan,KAHRAMANKAZAN/SARAYKÖY TOPRAK,18903
+Rize,Çayeli,ÇAYELİ BAKIR,18905
+Erzurum,İspir,ÇAYIRÖZÜ KÖYÜ,18906
+Balıkesir,Bigadiç,BİGADİÇ/GEDİKTEPE,18907
+Ankara,Beypazarı,BEYPAZARI/KIRBAŞI,18908
+Afyonkarahisar,Dinar,DİNAR/HAYDARLI BELDESİ,18909
+Niğde,Ulukışla,ULUKIŞLA/BOLKAR DAĞI,18910
+Afyonkarahisar,Sinanpaşa,SİNANPAŞA/TINAZTEPE BELDESİ,18912
+Bilecik,Merkez,BİLECİK ŞEYH EDEBALİ ÜNİ.,18913
+Kastamonu,İnebolu,İNEBOLU/YOLÜSTÜ KÖYÜ,18914
+Sakarya,Pamukova,PAMUKOVA/KEMALİYE KÖYÜ,18915
+Muş,Merkez,MUŞ/BERCE ALPARSLAN TARIM İŞLETMESİ,18916
+İzmir,Kınık,KINIK,18917
+Uşak,Merkez,UŞAK/KAYAAĞIL KÖYÜ,18918
+Gümüşhane,Merkez,GÜMÜŞHANE/SÜLEYMANİYE KAYAK MERKEZİ,18920
+Giresun,Dereli,Giresun / DERELİ/KÜMBET KAYAK MERKEZİ,18921
+Şanlıurfa,Siverek,SİVEREK/KARACADAĞ RADAR SAHASI,18922
+Kayseri,Kocasinan,KOCASİNAN/HİMMETDEDE KÖYÜ,18923
+Bilecik,Pazaryeri,PAZARYERİ/BOZCAARMUT KÖYÜ,18925
+Kırşehir,Kaman,KAMAN/YELEK BELDESİ,18926
+Afyonkarahisar,Sandıklı,SANDIKLI/HÜDAİ KAPLICALARI,18927
+Afyonkarahisar,Sinanpaşa,SİNANPAŞA/TAŞOLUK BELDESİ,18928
+Afyonkarahisar,Sandıklı,SANDIKLI/AKDAĞ TABİAT PARKI,18929
+Afyonkarahisar,Şuhut,ŞUHUT/MAHMUT KÖYÜ,18930
+Artvin,Arhavi,ARHAVİ/BOYUNCUK KÖYÜ,18931
+Artvin,Hopa,HOPA/ÇAVUŞLU KÖYÜ,18932
+Artvin,Kemalpaşa,KEMALPAŞA/KÖPRÜCÜ KÖYÜ,18933
+Rize,Fındıklı,FINDIKLI/YENİŞEHİTLİK KÖYÜ,18934
+Rize,Güneysu,GÜNEYSU/HANDÜZÜ YAYLASI,18935
+Trabzon,Şalpazarı,ŞALPAZARI/SÜTPINAR KÖYÜ,18936
+Rize,Merkez,RİZE/TAŞKÖPRÜ KÖYÜ,18937
+Amasya,Taşova,TAŞOVA/BORABOY GÖLÜ,18938
+Tokat,Pazar,PAZAR/BALLICA KÖYÜ,18939
+Tokat,Reşadiye,REŞADİYE/YOLÜSTÜ KÖYÜ,18940
+Kayseri,Yahyalı,YAHYALI/SÜLEYMANFAKILI KÖYÜ,18941
+Elazığ,Baskil,BASKİL/KUŞSARAYI,18943
+Tokat,Merkez,TOKAT/KEMALPAŞA KÖYÜ,18944
+İzmir,Bergama,BERGAMA/ÇAMKÖY,18945
+Eskişehir,Odunpazarı,ODUNPAZARI/KİREÇKÖYÜ,18946
+Afyonkarahisar,Sandıklı,SANDIKLI /BALLIK KÖYÜ,18947
+Yalova,Merkez,YALOVA ARAŞTIRMA,18948
+Adıyaman,Çelikhan,ÇELİKHAN/ÇAT BARAJI,18949
+Malatya,Doğanşehir,DOĞANŞEHİR/POLAT BARAJI,18950
+Malatya,Kale,MALATYA/KAPIKAYA BARAJI,18951
+Elazığ,Karakoçan,KARAKOÇAN/ÖZLÜCE BARAJI,18952
+Bingöl,Merkez,BİNGÖL/GAYT BARAJI,18953
+Bingöl,Merkez,BİNGÖL/GÜLBAHAR BARAJI,18954
+Antalya,Konyaaltı,AKDENİZ ÜNİVERSİTESİ,18955
+Artvin,Borçka,BORÇKA/ALACA KÖYÜ,18959
+Erzurum,Palandöken,PALANDÖKEN/KONAKLI KÖYÜ,18960
+Kırşehir,Mucur,MUCUR/KEPEZ KÖYÜ,18961
+Artvin,Ardanuç,ARDANUÇ/OVACIK KÖYÜ,18962
+Rize,İkizdere,İKİZDERE/OVİT,18963
+Artvin,Merkez,ARTVİN/MERSİVAN KAYAK MERKEZİ,18964
+Artvin,Şavşat,ŞAVŞAT/MEYDANCIK KÖYÜ,18965
+Artvin,Şavşat,ŞAVŞAT/YAVUZKÖY,18966
+Artvin,Yusufeli,YUSUFELİ/DARICA KÖYÜ,18967
+Artvin,Yusufeli,YUSUFELİ/KILIÇKAYA KÖYÜ,18969
+Artvin,Merkez,ARTVİN/YUKARIMADEN KÖYÜ,18970
+Kilis,Merkez,KİLİS/RESUL OSMAN DAĞI,18971
+Samsun,Canik,CANİK/DÜZÖREN KÖYÜ,18972
+Ordu,Fatsa,FATSA/ILICA,18973
+Samsun,Kavak,KAVAK/DORUK KÖYÜ,18974
+Samsun,Kavak,KAVAK/MAHMUTBEYLİ,18975
+Ordu,Perşembe,PERŞEMBE/EKİNCİLER KÖYÜ,18976
+Trabzon,Düzköy,DÜZKÖY/ÇAL KÖYÜ,18978
+Ankara,Gölbaşı,GÖLBAŞI/YAĞLIPINAR KÖYÜ,18979
+İstanbul,Sarıyer,SARIYER/İTÜ MASLAK YERLEŞKESİ,18980
+Erzincan,Refahiye,REFAHİYE/KAYI KÖYÜ,18987
+Kahramanmaraş,Pazarcık,PAZARCIK/ÇINARLI,18988
+Mersin,Mezitli,MEZİTLİ/ÇEVLİK KÖYÜ,18989
+Mersin,Mezitli,MEZİTLİ/FINDIKPINARI,18990
+Mersin,Mezitli,MEZİTLİ/KUZUCUBELEN,18991
+Mersin,Toroslar,TOROSLAR/DALAKDERESİ,18992
+Mersin,Toroslar,TOROSLAR/GÖZNE,18993
+Mersin,Toroslar,TOROSLAR/YAVCA,18994
+Burdur,Merkez,BURDUR GÖLÜ,18995
+Antalya,Finike,FİNİKE/SAKLISU,18996
+Kastamonu,Merkez,KASTAMONU/MESCİT KÖYÜ,18997
+Erzincan,Merkez,ERZİNCAN/DEREYURT KÖYÜ,18998
+Niğde,Merkez,NİĞDE/BAĞLAMA BELDESİ,19001
+Niğde,Merkez,NİĞDE/KIZILÖREN KÖYÜ,19002
+Ankara,Kalecik,KALECİK/KOYUNBABA KÖYÜ,19003
+Ankara,Bala,BALA/SOFULAR KÖYÜ,19004
+Ankara,Kızılcahamam,KIZILCAHAMAM/GÜVEM BELDESİ,19005
+Ankara,Kızılcahamam,KIZILCAHAMAM/YILDIRIM ORMAN SAHASI,19006
+Bartın,Merkez,BARTIN/KOZCAĞIZ BELDESİ,19007
+Bartın,Ulus,ULUS/CEYÜPLER KÖYÜ,19008
+Bartın,Ulus,ULUS/ÇUBUKELİ KÖYÜ,19009
+Karabük,Safranbolu,SAFRANBOLU ORMAN SAHASI,19010
+Bolu,Göynük,GÖYNÜK/HİMMETOĞLU KÖYÜ,19011
+Bolu,Merkez,BOLU/ÇELE ORMAN SAHASI,19012
+Bolu,Merkez,BOLU/BALTALI KÖYÜ,19013
+Çankırı,Merkez,ÇANKIRI/TÜNEY KÖYÜ,19014
+Çankırı,Yapraklı,YAPRAKLI/MÜSELLİM KÖYÜ,19015
+Çankırı,Çerkeş,ÇERKEŞ/GÖYNÜKÇUKURU KÖYÜ,19016
+Düzce,Yığılca,YIĞILCA/YOĞUNPELİT KÖYÜ,19017
+Karabük,Safranbolu,SAFRANBOLU/TOPRAKCUMA KÖYÜ,19018
+Karabük,Eflani,EFLANİ/GÖLLER KÖYÜ,19019
+Kırıkkale,Keskin,KESKİN/KASIMAĞA KÖYÜ,19020
+Kırıkkale,Delice,DELİCE/TAŞYAZI,19022
+Zonguldak,Devrek,DEVREK/EĞERCİ BELDESİ,19023
+Amasya,Merzifon,MERZİFON/ÇAYBAŞI KÖYÜ,19024
+Amasya,Taşova,TAŞOVA/BORABOY ORMAN SAHASI,19025
+Amasya,Merzifon,MERZİFON/TAVŞAN DAĞI,19026
+Çorum,Osmancık,OSMANCIK/TEPEYOLALTI KÖYÜ,19027
+Çorum,Osmancık,OSMANCIK/ÖBEKTAŞ KÖYÜ,19028
+Çorum,Merkez,ÇORUM/AHMEDİYE KÖYÜ,19029
+Kastamonu,Devrekani,DEVREKANİ/KUZ KÖYÜ,19030
+Kastamonu,Ağlı,AĞLI,19031
+Kastamonu,Bozkurt,BOZKURT/MAMATLAR KÖYÜ,19032
+Ordu,Kabadüz,KABADÜZ/YOKUŞDİBİ BELDESİ,19033
+Ordu,Mesudiye,MESUDİYE/TOPÇAM,19034
+Samsun,Çarşamba,ÇARŞAMBA/ÇAKMAK BARAJI,19035
+Samsun,Bafra,BAFRA ORMAN SAHASI,19036
+Samsun,Vezirköprü,VEZİRKÖPRÜ/GÖLKÖY ORMAN SAHASI,19038
+Sinop,Ayancık,AYANCIK,19039
+Sinop,Ayancık,AYANCIK/ÇANGAL,19040
+Sinop,Durağan,DURAĞAN/TEKİR YAYLASI,19041
+Sinop,Dikmen,DİKMEN/KÜÇÜKKIZIK KÖYÜ,19042
+Sinop,Boyabat,BOYABAT/KAVACIK KÖYÜ,19043
+Tokat,Almus,ALMUS/ALANKÖYÜ,19044
+Tokat,Niksar,NİKSAR/ÇAMİÇİ YAYLASI,19045
+Artvin,Borçka,BORÇKA/CANKURTARAN GEÇİDİ,19046
+Artvin,Yusufeli,YUSUFELİ/YAMAÇÜSTÜ KÖYÜ,19047
+Artvin,Yusufeli,YUSUFELİ/YAYLALAR KÖYÜ,19048
+Artvin,Yusufeli,YUSUFELİ/ALTIPARMAK KÖYÜ,19049
+Bayburt,Merkez,BAYBURT/SANCAKTEPE KÖYÜ,19050
+Bayburt,Merkez,BAYBURT/YAYLALAR KÖYÜ,19051
+Bayburt,Merkez,BAYBURT/ÜZENGİLİ KÖYÜ,19052
+Giresun,Yağlıdere,YAĞLIDERE/SINIRKÖY KÖYÜ,19053
+Giresun,Merkez,GİRESUN/İNİŞDİBİ KÖYÜ,19054
+Giresun,Alucra,ALUCRA/GÜRBULAK KÖYÜ,19055
+Gümüşhane,Merkez,GÜMÜŞHANE/SUNGURBEYLİ KÖYÜ,19056
+Gümüşhane,Kelkit,KELKİT/GÜLTEPE KÖYÜ,19057
+Rize,Çamlıhemşin,ÇAMLIHEMŞİN/PALOVİT YAYLASI,19058
+Rize,Çamlıhemşin,ÇAMLIHEMŞİN/HUSER YAYLASI,19059
+Trabzon,Araklı,ARAKLI/TURNALI KÖYÜ,19060
+Trabzon,Yomra,YOMRA/ÖZDİL BELDESİ,19061
+Trabzon,Çaykara,ÇAYKARA/LUSTRA YAYLASI,19062
+Trabzon,Araklı,ARAKLI/KAYAİÇİ YAYLASI,19063
+Trabzon,Çaykara,ÇAYKARA/DEMİRKAPI KÖYÜ,19064
+Ağrı,Doğubayazıt,DOĞUBAYAZIT/SULUÇEM KÖYÜ,19065
+Ağrı,Merkez,AĞRI/CUMAÇAY BELDESİ,19066
+Ardahan,Göle,GÖLE/YAVUZLAR KÖYÜ,19068
+Ardahan,Göle,GÖLE/ÇULLU KÖYÜ,19069
+Erzincan,Tercan,TERCAN/KARGIN BELDESİ,19070
+Erzincan,Merkez,ERZİNCAN/SAKALTUTAN GEÇİDİ,19071
+Erzurum,Tekman,TEKMAN/HACIÖMER KÖYÜ,19072
+Erzurum,İspir,İSPİR/ÇAMLIKAYA BELDESİ,19073
+Erzurum,Aşkale,AŞKALE/OVACIK KÖYÜ,19074
+Erzincan,Kemah,KEMAH/DEDEOĞLU KÖYÜ,19075
+Kars,Sarıkamış,SARIKAMIŞ/KARAKURT BELDESİ,19076
+Kars,Merkez,KARS/SOYLU KÖYÜ,19077
+Adıyaman,Besni,BESNİ/KIZILKAYA KÖYÜ,19078
+Adıyaman,Çelikhan,ÇELİKHAN/YEŞİLTEPE KÖYÜ,19079
+Adıyaman,Gölbaşı,GÖLBAŞI ORMAN SAHASI,19080
+Bingöl,Merkez,BİNGÖL/ALATEPE KÖYÜ,19081
+Bingöl,Merkez,BİNGÖL/YOLÇATI KÖYÜ,19082
+Elazığ,Merkez,ELAZIĞ/YURTBAŞI,19083
+Elazığ,Baskil,BASKİL/AŞAĞIKULUŞAĞI BELDESİ,19084
+Malatya,Doğanşehir,DOĞANŞEHİR/SÜRGÜ BELDESİ,19085
+Malatya,Arguvan,ARGUVAN/ÇOBANDERE KÖYÜ,19086
+Malatya,Hekimhan,HEKİMHAN/KURŞUNLU BELDESİ,19087
+Malatya,Pötürge,PÜTÜRGE ORMAN SAHASI,19088
+Malatya,Doğanşehir,DOĞANŞEHİR/KURUCAOVA MEVKİ,19089
+Tunceli,Pertek,PERTEK/ELMAKAŞI KÖYÜ,19090
+Bitlis,Tatvan,TATVAN/YELKENLİ BELDESİ,19091
+Bitlis,Ahlat,AHLAT/BURCUKAYA KÖYÜ,19092
+Muş,Merkez,MUŞ/MERCİMEKKALE BARAJI,19093
+Muş,Hasköy,HASKÖY,19094
+Muş,Merkez,MUŞ/YAYGIN BELDESİ,19095
+Batman,Gercüş,GERCÜŞ/HİSAR BELDESİ,19097
+Diyarbakır,Bismil,BİSMİL/YUKARISALAT BELDESİ,19098
+Diyarbakır,Çermik,ÇERMİK/SARIBALTA KÖYÜ,19099
+Isparta,Yalvaç,YALVAÇ/ÇETİNCE,19100
+Mardin,Derik,DERİK/KUTLUCA KÖYÜ,19101
+Siirt,Şirvan,ŞİRVAN/DOĞRUCA KÖYÜ,19102
+Şanlıurfa,Harran,HARRAN/YENİCE KÖYÜ,19103
+Şanlıurfa,Siverek,SİVEREK/ALANYURT KÖYÜ,19104
+Isparta,Yenişarbademli,YENİŞARBADEMLİ/DEDEGÖL TEPESİ,19105
+Edirne,Lalapaşa,LALAPAŞA/HAMZEBEYLİ KÖYÜ,19106
+Edirne,Merkez,EDİRNE/KEMAL KÖYÜ,19107
+Edirne,Keşan,KEŞAN/MECİDİYE KÖYÜ,19108
+İstanbul,Beylikdüzü,BEYLİKDÜZÜ,19110
+İstanbul,Çatalca,ÇATALCA,19111
+İstanbul,Kartal,KARTAL/AYDOS DAĞI,19112
+Kırklareli,Lüleburgaz,LÜLEBURGAZ/CELALİYE KÖYÜ,19113
+Kırklareli,Merkez,KIRKLARELİ/ÜSKÜP KÖYÜ,19114
+Kocaeli,Çayırova,ÇAYIROVA,19115
+Kocaeli,Derince,DERİNCE,19116
+Kocaeli,Gölcük,GÖLCÜK/AYVAZPINARI KÖYÜ,19117
+Sakarya,Pamukova,PAMUKOVA,19118
+Sakarya,Ferizli,FERİZLİ/GÖLKENT BELDESİ,19119
+Sakarya,Serdivan,SERDİVAN,19120
+Tekirdağ,Ergene,ERGENE/VAKIFLAR BELDESİ,19121
+Tekirdağ,Kapaklı,KAPAKLI,19122
+Yalova,Altınova,ALTINOVA/AKTOPRAK KÖYÜ,19123
+Aydın,Karpuzlu,KARPUZLU,19124
+Aydın,Kuşadası,KUŞADASI/GÜZELÇAMLI,19125
+Balıkesir,Gömeç,GÖMEÇ,19126
+Balıkesir,Havran,HAVRAN,19127
+Balıkesir,Sındırgı,SINDIRGI,19128
+Balıkesir,Edremit,EDREMİT/ALTINOLUK,19129
+Çanakkale,Merkez,AYVACIK/BEHRAM,19130
+Çanakkale,Merkez,YENİCE/TABANKÖY,19131
+Çanakkale,Merkez,YENİCE/AŞAĞIÇAVUŞ KÖYÜ,19132
+İzmir,Balçova,BALÇOVA,19133
+İzmir,Kemalpaşa,KEMALPAŞA/BAĞYURDU KÖYÜ,19134
+İzmir,Tire,TİRE/SOMAK KÖYÜ,19136
+Manisa,Kırkağaç,KIRKAĞAÇ,19137
+Manisa,Salihli,SALİHLİ/ÇAKALDOĞANLAR KÖYÜ,19138
+Manisa,Demirci,DEMİRCİ/İCİKLER,19139
+Bilecik,Merkez,BİLECİK/ABADİYE KÖYÜ,19140
+Bilecik,Söğüt,SÖĞÜT/KÜRE KÖYÜ,19141
+Bilecik,Gölpazarı,GÖLPAZARI/KARAAĞAÇ KÖYÜ,19142
+Eskişehir,İnönü,İNÖNÜ/THK TESİSLERİ,19143
+Eskişehir,Sivrihisar,SİVRİHİSAR/OĞLAKÇI KÖYÜ,19144
+Eskişehir,Seyitgazi,SEYİTGAZİ/İDRİSYAYLA KÖYÜ,19145
+Eskişehir,Seyitgazi,SEYİTGAZİ/YENİKENT KÖYÜ,19146
+Eskişehir,Günyüzü,Eskişehir / GÜNYÜZÜ/KAYAKENT MEVKİ,19147
+Kütahya,Gediz,GEDİZ/YAYLAKÖY,19148
+Kütahya,Tavşanlı,TAVŞANLI/BALIKÖY,19149
+Antalya,Korkuteli,KORKUTELİ/BEĞİŞ KÖYÜ,19150
+Antalya,Demre,DEMRE/ÇAĞMAN KÖYÜ,19151
+Antalya,Kemer,KEMER/OVACIK KÖYÜ,19152
+Antalya,Gazipaşa,GAZİPAŞA/KARATEPE KÖYÜ,19153
+Antalya,Alanya,ALANYA/TOSLAK,19154
+Isparta,Merkez,ISPARTA/GÖLCÜK MİLLİ PARKI,19155
+Antalya,Kumluca,ANTALYA KUMLUCA RADAR SAHASI,19156
+Burdur,Yeşilova,YEŞİLOVA/HARMANLI KÖYÜ,19157
+Burdur,Ağlasun,AĞLASUN/YUMRUTAŞ KÖYÜ,19158
+Isparta,Şarkikaraağaç,ŞARKİKARAAĞAÇ/SARIKAYA KÖYÜ,19159
+Isparta,Merkez,EĞİRDİR/BARLA,19160
+Muğla,Menteşe,MENTEŞE/GÖKTEPE BELDESİ,19162
+Muğla,Menteşe,MENTEŞE/MURATLAR KÖYÜ,19163
+Afyonkarahisar,Şuhut,AFYONKARAHİSAR KUMALAR TEPESİ RADAR SAHASI,19164
+Afyonkarahisar,Sandıklı,SANDIKLI/ÇUKURCA KÖYÜ,19165
+Afyonkarahisar,Sinanpaşa,SİNANPAŞA/TAZLAR KÖYÜ,19166
+Denizli,Sarayköy,SARAYKÖY/TIRKAZ,19167
+Denizli,Güney,GÜNEY/ADIGÜZELLER KÖYÜ,19168
+Denizli,Buldan,BULDAN/KADIKÖY KÖYÜ,19169
+Denizli,Pamukkale,PAMUKKALE/BAĞBAŞI,19170
+Uşak,Banaz,BANAZ/AHAT KÖYÜ,19171
+Uşak,Merkez,UŞAK/SELVİOĞLU KÖYÜ,19172
+Adana,Karaisalı,KARAİSALI/SADIKALİ KÖYÜ(ÇATALAN BARAJI),19173
+Adana,Tufanbeyli,TUFANBEYLİ/GEZBELİ GEÇİDİ,19174
+Gaziantep,Nizip,NİZİP/ULUYATIR,19175
+Gaziantep,Şehitkamil,ŞEHİTKAMİL/GAZİANTEP SOFT TEPE RADAR SAHASI,19176
+Kahramanmaraş,Onikişubat,ONİKİŞUBAT/ÇAMLIBEL KÖYÜ,19177
+Kahramanmaraş,Göksun,GÖKSUN/KARAÖMER KÖYÜ,19178
+Kahramanmaraş,Andırın,ANDIRIN/YEŞİLOVA KÖYÜ,19179
+Mersin,Mezitli,MEZİTLİ,19180
+Mersin,Mut,MUT/SERTAVUL GEÇİDİ,19181
+Mersin,Akdeniz,AKDENİZ/YANPAR KÖYÜ,19182
+Adana,Karataş,KARATAŞ/KONAKLI KÖYÜ,19183
+Osmaniye,Sumbas,SUMBAS,19184
+Kayseri,Hacılar,HACILAR,19185
+Kayseri,Tomarza,TOMARZA/ARSLANTAŞ KÖYÜ,19186
+Kayseri,Pınarbaşı,PINARBAŞI/PAZARSU KÖYÜ,19187
+Kayseri,Talas,TALAS/ERCİYES ÜNİVERSİTESİ,19188
+Kırşehir,Merkez,KIRŞEHİR/TOKLÜMEN KÖYÜ,19189
+Nevşehir,Derinkuyu,DERİNKUYU/DOĞALA KÖYÜ,19190
+Nevşehir,Avanos,AVANOS/ALTIPINAR KÖYÜ,19191
+Sivas,Gemerek,GEMEREK/SIZIR BELDESİ,19192
+Sivas,Ulaş,ULAŞ/YAĞDONDURAN GEÇİDİ,19193
+Sivas,Gürün,GÜRÜN/GÖBEKÖREN KÖYÜ,19194
+Yozgat,Boğazlıyan,BOĞAZLIYAN/UZUNLU BELDESİ,19195
+Yozgat,Yerköy,YERKÖY/HACIUŞAĞI KÖYÜ,19196
+Aksaray,Merkez,AKSARAY/YEŞİLTEPE KÖYÜ,19197
+Karaman,Merkez,KARAMAN RADAR SAHASI,19198
+Karaman,Merkez,KARAMAN/BUCAKKIŞLA BELDESİ,19199
+Konya,Meram,MERAM/LORAS DAĞI,19200
+Niğde,Bor,BOR/KILAVUZ KÖYÜ,19201
+Ankara,Altındağ,ALTINDAĞ/GENÇLİK PARKI,19202
+Ankara,Evren,EVREN,19203
+Ankara,Polatlı,POLATLI/SARIOBA KÖYÜ,19204
+Ankara,Nallıhan,NALLIHAN/SARIYAR,19205
+Ankara,Bala,BALA/AŞAĞIHACIBEKİR KÖYÜ,19206
+Bartın,Kurucaşile,KURUCAŞİLE/İLYASGEÇİDİ,19207
+Bolu,Dörtdivan,DÖRTDİVAN,19208
+Bolu,Merkez,BOLU/YEDİGÖLLER MİLLİ PARKI,19209
+Çankırı,Çerkeş,ÇERKEŞ/KARACAHÖYÜK KÖYÜ,19210
+Çankırı,Kurşunlu,KURŞUNLU/DUMANLI KÖYÜ,19211
+Düzce,Cumayeri,CUMAYERİ,19212
+Düzce,Kaynaşlı,KAYNAŞLI,19214
+Karabük,Merkez,KARABÜK/KELTEPE KAYAK MERKEZİ,19215
+Kırıkkale,Yahşihan,YAHŞİHAN,19216
+Zonguldak,Merkez,ZONGULDAK/BEYCUMA,19217
+Amasya,Merkez,AMASYA/ORMANÖZÜ KÖYÜ,19218
+Çorum,Mecitözü,MECİTÖZÜ/EMİRBAĞI KÖYÜ,19219
+Çorum,Mecitözü,MECİTÖZÜ/BOĞAZKAYA KÖYÜ,19220
+Kastamonu,Abana,ABANA,19221
+Kastamonu,Merkez,HANÖNÜ,19222
+Ordu,Korgan,KORGAN,19223
+Ordu,Çatalpınar,ÇATALPINAR,19224
+Samsun,Bafra,BAFRA/KIZILIRMAK KUŞ CENNETİ,19225
+Samsun,Yakakent,YAKAKENT,19226
+Sinop,Merkez,SİNOP/SARIKUM KÖYÜ,19227
+Sinop,Ayancık,AYANCIK/ZİNDAN KÖYÜ,19228
+Sinop,Merkez,SİNOP/SAZLI KÖYÜ,19229
+Tokat,Merkez,TOKAT/ÇAMLIBEL BELDESİ,19230
+Tokat,Erbaa,ERBAA/GÖKAL,19231
+Artvin,Merkez,ARTVİN/BEŞAĞIL KÖYÜ,19232
+Artvin,Yusufeli,YUSUFELİ/DEMİRKÖY KÖYÜ,19233
+Bayburt,Merkez,BAYBURT/KEMERTAŞ,19234
+Bayburt,Merkez,BAYBURT/BALLIKAYA KÖYÜ,19235
+Bayburt,Merkez,BAYBURT/KOP KAYAK MERKEZİ,19236
+Giresun,Espiye,ESPİYE,19237
+Giresun,Espiye,ESPİYE/AVLUCA,19238
+Giresun,Bulancak,BULANCAK/KOVANLIK,19239
+Giresun,Şebinkarahisar,ŞEBİNKARAHİSAR/GÜRPINAR KÖYÜ,19240
+Gümüşhane,Kelkit,KELKİT/ÇAMUR KÖYÜ,19241
+Gümüşhane,Torul,TORUL/GÜLAÇAR KÖYÜ,19242
+Rize,Ardeşen,ARDEŞEN,19243
+Trabzon,Çaykara,ÇAYKARA,19246
+Trabzon,Şalpazarı,ŞALPAZARI,19247
+Ağrı,Merkez,AĞRI/ÇUKURALAN KÖYÜ,19249
+Ağrı,Eleşkirt,ELEŞKİRT/YAYLADÜZÜ BELDESİ,19250
+Erzincan,Refahiye,REFAHİYE/YURTBAŞI KÖYÜ,19252
+Erzurum,İspir,İSPİR/ULUTAŞ,19253
+Erzurum,Köprüköy,KÖPRÜKÖY/YILANLI KÖYÜ,19254
+Erzurum,Aziziye,AZİZİYE/KUZGUN KÖYÜ,19255
+Kars,Selim,SELİM/BEYKÖY,19256
+Adıyaman,Besni,BESNİ/SAMBAYAT,19257
+Adıyaman,Kahta,KAHTA/NEMRUT DAĞI MİLLİ PARKI,19258
+Bingöl,Merkez,BİNGÖL/SANCAK KÖYÜ,19259
+Elazığ,Alacakaya,ALACAKAYA,19260
+Elazığ,Kovancılar,KOVANCILAR/KOLLUCA KÖYÜ,19261
+Elazığ,Merkez,ELAZIĞ/YOLÇATI KÖYÜ,19262
+Malatya,Doğanşehir,DOĞANŞEHİR/GÖVDELİ KÖYÜ,19263
+Malatya,Merkez,YEŞİLYURT/ÜÇGÖZE KÖYÜ,19264
+Tunceli,Pertek,PERTEK/KOÇPINAR KÖYÜ,19265
+Bitlis,Adilcevaz,ADİLCEVAZ/ÇANAKYAYLA KÖYÜ,19266
+Muş,Merkez,MUŞ KAYAK MERKEZİ,19267
+Diyarbakır,Bağlar,BAĞLAR/KIRKKOYUN KÖYÜ,19268
+Siirt,Tillo,TİLLO,19269
+Şanlıurfa,Harran,HARRAN,19270
+Şırnak,Silopi,SİLOPİ/GÖRÜMLÜ BELDESİ,19271
+Adana,Seyhan,SEYHAN,19272
+Ankara,Etimesgut,ETİMESGUT,19273
+Ankara,Kahramankazan,KAHRAMANKAZAN,19274
+Ankara,Yenimahalle,YENİMAHALLE,19275
+Bursa,Yenişehir,BURSA/YENİŞEHİR,19279
+Denizli,Çardak,ÇARDAK,19281
+Erzurum,Aziziye,AZİZİYE,19284
+Gaziantep,Oğuzeli,OĞUZELİ,19286
+Kırklareli,Vize,VİZE,19320
+Konya,Kadınhanı,KADINHANI,19321
+Konya,Sarayönü,SARAYÖNÜ,19322
+Rize,İkizdere,İKİZDERE,19334
+Samsun,İlkadım,İLKADIM,19339
+Samsun,Terme,TERME,19340
+Şanlıurfa,Karaköprü,KARAKÖPRÜ,19341
+Tekirdağ,Marmaraereğlisi,MARMARAEREĞLİSİ,19343
+Trabzon,Araklı,ARAKLI,19344
+Trabzon,Tonya,TONYA,19350
+Van,Tuşba,TUŞBA/YÜZÜNCÜ YIL ÜNİVERSİTESİ,19353
+Yozgat,Yerköy,YERKÖY,19355
+Zonguldak,Çaycuma,ÇAYCUMA,19356
+Denizli,Merkezefendi,MERKEZEFENDİ,19359
+Hatay,Defne,DEFNE,19363
+İstanbul,Sarıyer,SARIYER/YAVUZ SULTAN SELİM KÖPRÜSÜ,19365
+Trabzon,Ortahisar,ORTAHİSAR,19366
+Kırıkkale,Yahşihan,YAHŞİHAN/KILIÇLAR KÖYÜ,19371
+Eskişehir,Mihalgazi,MİHALGAZİ,19372
+Artvin,Ardanuç,ARDANUÇ/AŞAĞI IRMAKLAR KÖYÜ,19373
+Antalya,Kepez,KEPEZ,19374
+Diyarbakır,Kayapınar,KAYAPINAR,19375
+Düzce,Gümüşova,GÜMÜŞOVA,19376
+Giresun,Dereli,DERELİ,19377
+Hatay,Payas,PAYAS,19378
+Zonguldak,Kilimli,KİLİMLİ,19379
+Sakarya,Erenler,ERENLER,19380
+Samsun,Canik,CANİK,19381
+Zonguldak,Kozlu,KOZLU,19383
+Kırklareli,Merkez,KIRKLARELİ ÜNİVERSİTESİ,19900
+Artvin,Ardanuç,ARDANUÇ/GEÇİTLİ KÖYÜ,19901
+Trabzon,Maçka,MAÇKA/HAMSİKÖY,19902
+Iğdır,Merkez,IĞDIR ÜNİVERSİTESİ,19903
+Eskişehir,Odunpazarı,ODUNPAZARI/TÜRKMENDAĞI,19904
+Isparta,Şarkikaraağaç,ŞARKİKARAAĞAÇ/KIZILDAĞ MİLLİ PARKI,19905
+Sivas,Suşehri,SUŞEHRİ TARIM,19906
+Yozgat,Merkez,YOZGAT/ESENLİ KÖYÜ,19907
+Hakkari,Merkez,HAKKARİ KAYAK MERKEZİ,19909
+Niğde,Altunhisar,ALTUNHİSAR/KARAKAPI BELDESİ,19910
+Amasya,Merkez,AMASYA ÜNİVERSİTESİ,19911
+Kayseri,Develi,DEVELİ/ÖKSÜT,19912
+Malatya,Hekimhan,HEKİMHAN/KÖYLÜKÖYÜ,19913
+Antalya,Korkuteli,KORKUTELİ/BAYAT KÖYÜ,19914
+Bursa,Osmangazi,ULUDAĞ TELEFERİK,19915
+Diyarbakır,Yenişehir,DİYARBAKIR/YENİŞEHİR,19916
+Bingöl,Merkez,BİNGÖL/HESAREK KAYAK MERKEZİ,19917
+Konya,Çumra,ÇUMRA/APA BARAJI,19918
+Erzurum,Palandöken,DOĞU ANADOLU GÖZLEMEVİ,19919
+Manisa,Gölmarmara,GÖLMARMARA BELEDİYESİ,19921
+Sakarya,Pamukova,PAMUKOVA/AKÇAY BARAJI,19922
+Şırnak,Beytüşşebap,BEYTÜŞŞEBAP/KATO DAĞI,19923
+Batman,Beşiri,BEŞİRİ/DEMİRDÖVEN KÖYÜ,19924
+Artvin,Yusufeli,YUSUFELİ/DEMİRKENT,19925
+Elazığ,Merkez,FIRAT ÜNİVERSİTESİ,19926
+Çankırı,Ilgaz,ILGAZ DAĞI,19991

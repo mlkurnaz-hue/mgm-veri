@@ -1,0 +1,37 @@
+name: MGM Saat Başı Veri Çekme
+
+on:
+  schedule:
+    # UTC bazlı. '5 * * * *' = her saatin 5. dakikasında (tam saat başında
+    # yoğunluk olmasın diye 5 dk kaydırıldı; GitHub Actions'ta zamanlama
+    # yoğunluğa göre birkaç dakika gecikebilir, bu normaldir).
+    - cron: '5 * * * *'
+  workflow_dispatch: {}   # İstersen Actions sekmesinden elle de tetikleyebilirsin
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # log dosyasını repoya commit edebilmek için
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları kur
+        run: pip install -r requirements.txt
+
+      - name: MGM verisini çek ve yaş termometre hesapla
+        run: python3 mgm_hourly.py
+
+      - name: Sonuçları commit et
+        run: |
+          git config user.name "mgm-bot"
+          git config user.email "actions@github.com"
+          git add turkiye_sondurum_wetbulb_latest.csv turkiye_sondurum_wetbulb_log.csv
+          git diff --quiet --cached || git commit -m "MGM verisi güncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
