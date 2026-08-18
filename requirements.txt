@@ -1,1 +1,6 @@
 requests
+numpy
+scipy
+shapely
+plotly
+kaleido==0.2.1
