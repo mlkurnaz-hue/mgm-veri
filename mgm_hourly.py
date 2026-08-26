@@ -252,7 +252,34 @@ def build_map(out_rows, calisma_zamani: str) -> Path:
     return MAP_JPG
 
 
-def send_email(jpg_path: Path, calisma_zamani: str):
+def build_hot_stations_text(out_rows, threshold: float = 28.0) -> str:
+    """Islak termometresi esigin ustunde olan istasyonlari, yuksekten dusuge
+    siralanmis okunabilir bir metin listesi olarak dondurur."""
+    hot = []
+    for row in out_rows:
+        tw = row.get("islakTermometreSicakligi_C", "")
+        if tw in ("", None):
+            continue
+        try:
+            tw_f = float(tw)
+        except ValueError:
+            continue
+        if tw_f > threshold:
+            hot.append((tw_f, row.get("il", ""), row.get("ilce", ""), row.get("istasyon", "")))
+
+    hot.sort(key=lambda x: x[0], reverse=True)
+
+    if not hot:
+        return f"\n{threshold:.0f}\u00b0C \u00fczerinde islak termometre sicakligi olan istasyon yok.\n"
+
+    lines = [f"\n{threshold:.0f}\u00b0C \u00fczerindeki istasyonlar ({len(hot)} adet), y\u00fcksekten d\u00fc\u015f\u00fc\u011fe:\n"]
+    for tw_f, il, ilce, istasyon in hot:
+        etiket = f"{ilce}/{istasyon}" if ilce and ilce != istasyon else istasyon
+        lines.append(f"  {tw_f:5.1f}\u00b0C  \u2014  {il}, {etiket}")
+    return "\n".join(lines) + "\n"
+
+
+def send_email(jpg_path: Path, calisma_zamani: str, extra_text: str = ""):
     smtp_user = os.environ.get("SMTP_USERNAME")
     smtp_pass = os.environ.get("SMTP_PASSWORD")
     email_to = os.environ.get("EMAIL_TO")
@@ -272,12 +299,13 @@ def send_email(jpg_path: Path, calisma_zamani: str):
     msg["Subject"] = f"Turkiye Islak Termometre Haritasi \u2014 {zaman_str}"
     msg["From"] = smtp_user
     msg["To"] = ", ".join(recipients)
-    msg.attach(MIMEText(
+    body = (
         f"Ekte {zaman_str} itibariyla guncellenen Turkiye islak termometre "
-        f"sicakligi haritasi bulunmaktadir.\n\nBu e-posta otomatik olarak "
-        f"GitHub Actions uzerinden gonderilmistir.",
-        "plain", "utf-8"
-    ))
+        f"sicakligi haritasi bulunmaktadir.\n"
+        f"{extra_text}\n"
+        f"Bu e-posta otomatik olarak GitHub Actions uzerinden gonderilmistir."
+    )
+    msg.attach(MIMEText(body, "plain", "utf-8"))
 
     with open(jpg_path, "rb") as f:
         img = MIMEImage(f.read(), _subtype="jpeg")
@@ -297,7 +325,8 @@ def main():
         fetch_all_turkey()
         out_rows, calisma_zamani = add_wetbulb_and_save()
         jpg_path = build_map(out_rows, calisma_zamani)
-        send_email(jpg_path, calisma_zamani)
+        hot_text = build_hot_stations_text(out_rows, threshold=28.0)
+        send_email(jpg_path, calisma_zamani, extra_text=hot_text)
     finally:
         if RAW_TMP_CSV.exists():
             RAW_TMP_CSV.unlink()
