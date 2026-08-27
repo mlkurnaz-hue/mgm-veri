@@ -5,10 +5,6 @@ on:
     - cron: '37 * * * *'
   workflow_dispatch: {}
 
-concurrency:
-  group: mgm-hourly
-  cancel-in-progress: false
-
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -33,11 +29,21 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python3 mgm_hourly.py
 
-      - name: Sonuclari commit et
+      - name: Sonuclari commit et (celiskide otomatik yeniden dener)
         run: |
           git config user.name "mgm-bot"
           git config user.email "actions@github.com"
           git add turkiye_sondurum_wetbulb_latest.csv turkiye_sondurum_wetbulb_log.csv turkiye_islak_termometre_latest.jpg
           git diff --quiet --cached || git commit -m "MGM verisi ve harita guncellendi: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase --autostash
-          git push
+
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Push basarili (deneme $i)"
+              exit 0
+            fi
+            echo "Push basarisiz (deneme $i), uzak degisiklikler cekilip tekrar denenecek..."
+            git pull --rebase --autostash
+            sleep $((RANDOM % 10 + 5))
+          done
+          echo "5 denemeden sonra push basarisiz oldu."
+          exit 1
