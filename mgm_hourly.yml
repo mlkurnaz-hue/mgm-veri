@@ -1,8 +1,6 @@
 name: MGM Saat Basi Veri Cekme + Harita + E-posta
 
 on:
-  schedule:
-    - cron: '5 * * * *'
   workflow_dispatch: {}
 
 jobs:
