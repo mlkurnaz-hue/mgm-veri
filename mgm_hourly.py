@@ -90,7 +90,27 @@ def fetch_all_turkey():
         raise RuntimeError("Beklenen cikti dosyasi olusmadi.")
 
 
+LOG_SIZE_LIMIT_BYTES = 80 * 1024 * 1024  # 80 MB - GitHub'in 100MB sinirina karsi guvenlik payi
+
+
+def rotate_log_if_needed():
+    """Log dosyasi buyuk boyuta ulastiysa (GitHub'in 100MB dosya sinirina
+    takilmadan once) onu bir arsiv adiyla yeniden adlandirir, boylece
+    devam eden eklemeler yeni/bos bir dosyaya yazilir."""
+    if not LOG_CSV.exists():
+        return
+    size = LOG_CSV.stat().st_size
+    if size < LOG_SIZE_LIMIT_BYTES:
+        return
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M")
+    archive_path = LOG_CSV.with_name(f"turkiye_sondurum_wetbulb_log_{stamp}.csv")
+    LOG_CSV.rename(archive_path)
+    print(f"[{datetime.now().isoformat(timespec='seconds')}] "
+          f"Log dosyasi {size/1e6:.1f}MB'a ulasti, arsivlendi: {archive_path.name}")
+
+
 def add_wetbulb_and_save():
+    rotate_log_if_needed()
     calisma_zamani = datetime.now(timezone.utc).isoformat(timespec="seconds")
     with open(RAW_TMP_CSV, encoding="utf-8-sig") as f:
         rows = list(csv.DictReader(f))
